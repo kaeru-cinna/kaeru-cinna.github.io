@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <title>ウルトラマンパズルシュワッチ攻略まとめ</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="style.css">
+  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2529205461735673"
+     crossorigin="anonymous"></script>
+</head>
+<body>
+
+<!-- 共通ヘッダー -->
+<div id="header"></div>
+
+<p class="notice">
+※当サイトは非公式ファン攻略サイトです。
+</p>
+
+<div class="container">
+
+  <!-- 共通目次 -->
+  <div id="toc-area"></div>
+
+  <!-- メイン -->
+  <main>
+    <div id="score-calculator">
+
+  <h1 id="score-title">襲来スコア計算</h1>
+  
+  <div class="score-row">
+    編成戦力
+    <input type="number" id="military">
+  </div>
+
+  <div class="score-row">
+    現在スコア
+    <input type="number" id="baseScore">
+  </div>
+
+  <hr>
+
+  <div class="score-row">
+    最大HP <input type="number" id="maxHp">
+  </div>
+  <div class="score-row">
+    現在HP <input type="number" id="currentHp">
+  </div>
+
+  <hr>
+
+  <form id="scoreForm">
+
+    <div class="score-row">
+      <input type="checkbox" id="bonus1Enable" checked>
+      ボムボーナス：ブーメラン 
+      <input type="number" id="v1">
+    </div>
+    <div class="score-row">
+      <input type="checkbox" id="bonus2Enable" checked>
+      ボムボーナス：ナパーム 
+      <input type="number" id="v2">
+    </div>
+    <div class="score-row">
+      <input type="checkbox" id="bonus3Enable" checked>
+      ボムボーナス：ロケット 
+      <input type="number" id="v3">
+    </div>
+    <div class="score-row">
+      <input type="checkbox" id="bonus4Enable" checked>
+      ボムボーナス：サークル 
+      <input type="number" id="v4">
+    </div>
+    <div class="score-row">
+      <input type="checkbox" id="bonus5Enable" checked>
+      ピースボーナス
+      <input type="number" id="v5">
+    </div>
+    <div class="score-row">
+      <input type="checkbox" id="bonus6Enable" checked>
+      必殺技ボーナス 
+      <input type="number" id="v6">
+    </div>
+
+    <button type="submit" id="score-button">計算する</button>
+
+  </form>
+
+  <div id="score-result">最終スコア: 0</div>
+
+</div>
+
+  </main>
+
+  <!-- サイドバー -->
+  <aside>
+    <div id="article-area"></div>
+  </aside>
+
+</div>
+
+<footer>
+  © ウルトラマンパズルシュワッチ攻略まとめ
+</footer>
+
+<script src="DamageCalculation.js" defer></script>
+<script src="include.js" defer></script>
+</body>
+</html>

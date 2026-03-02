@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <title>ウルトラマンパズルシュワッチ攻略まとめ</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="style.css">
+  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2529205461735673"
+     crossorigin="anonymous"></script>
+</head>
+<body>
+
+<!-- 共通ヘッダー -->
+<div id="header"></div>
+
+<p class="notice">
+※当サイトは非公式ファン攻略サイトです。
+</p>
+
+<div class="container">
+
+  <!-- 共通目次 -->
+  <div id="toc-area"></div>
+
+  <!-- メイン -->
+  <main>
+    <h2>ガチャシミュレーター</h2>
+    <section class="gacha-control">
+    <label>
+      ガチャ種別：
+      <select id="gachaLevel">
+        <option value="Character">キャラ</option>
+        <option value="Core">コア</option>
+        <option value="wish">願い</option>
+        <option value="Reminiscence">追憶</option>
+      </select>
+    </label>
+
+    <button onclick="draw40()">40連ガチャ</button>
+  </section>
+
+  <section id="results" class="gacha-results"></section>
+
+  <div class="retry-area">
+    <button id="retryButton" onclick="retryGacha()" style="display:none;">
+      もう一度40連
+    </button>
+  </div>
+
+  <p class="notice">
+    ※本シミュレーターは非公式です。実際の排出率とは異なります。
+  </p>
+
+  </main>
+
+  <!-- サイドバー -->
+  <aside>
+    <div id="article-area"></div>
+  </aside>
+
+</div>
+
+<footer>
+  © ウルトラマンパズルシュワッチ攻略まとめ
+</footer>
+
+<script src="include.js" defer></script>
+<script src="gacha.js" defer></script>
+</body>
+</html>
