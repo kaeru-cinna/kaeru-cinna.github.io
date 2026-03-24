@@ -205,8 +205,8 @@ const gachaRates = {
     { name: "願いの印", rate: 0.280, rarity: 3, img: "Capsule.png" },
     { name: "惑星の記憶", rate: 0.280, rarity: 3, img: "Capsule.png" },
     { name: "イベントコイン×10", rate: 0.500, rarity: 3, img: "Capsule.png" },
-    { name: "ダークロプスゼロ", rate: 0.500, rarity: 3, img: "Capsule.png" },
-    { name: "ウルトラマンベリアル", rate: 0.099, rarity: 4, img: "Capsule.png" }
+    { name: "ゲネガーグ", rate: 0.500, rarity: 3, img: "Capsule.png" },
+    { name: "ウルトラマンZ", rate: 0.099, rarity: 4, img: "Capsule.png" }
   ]
 };
 
