@@ -2,7 +2,7 @@
 <html lang="ja">
 <head>
   <meta charset="UTF-8">
-  <title>ウルトラマンパズルシュワッチ攻略まとめ</title>
+  <title>パズシュワ 招待コード</title>
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <link rel="stylesheet" href="style.css">
   <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2529205461735673"
@@ -25,7 +25,13 @@
   <!-- メイン -->
   <main>
    <main class="contact-page">
-  <h2>雑談広場</h2>
+  <h2>隊員招待コード</h2>
+  1.ホーム画面右上の三をタップ<br>
+  2.キャンペーンワードの入力<br>
+  3.キャンペーンの選択「隊員招待キャンペーン」<br>
+  4.キャンペーンワード「F2K7E4L」<br>
+  <button id="copyBtn" onclick="copyText()">コピー</button><br>
+  5.決定でダイヤプレゼント！
 
   <p class="notice">
     招待コードの交換や雑談などご自由に投稿してください。<br>
@@ -60,6 +66,19 @@
     s.setAttribute('data-timestamp', +new Date());
     (d.head || d.body).appendChild(s);
   })();
+  
+  function copyText() {
+  const text = "F2K7E4L";
+
+  navigator.clipboard.writeText(text).then(() => {
+    const btn = document.getElementById("copyBtn");
+    btn.textContent = "コピー済み！";
+
+    setTimeout(() => {
+      btn.textContent = "コピー";
+    }, 2000);
+  });
+}
 </script>
 
 <noscript>
