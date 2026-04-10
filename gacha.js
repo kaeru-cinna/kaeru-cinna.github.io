@@ -127,7 +127,7 @@ const gachaRates = {
     { name: "GサークルUR", rate: 0.004, rarity: 5, img: "gold4.png" },
     { name: "BブーメランUR", rate: 0.004, rarity: 5, img: "gold4.png" }
   ],
-  wish: [
+  Wish: [
     { name: "サークルカプセル", rate: 4.259, rarity: 3, img: "Capsule.png" },
     { name: "ロケットカプセル", rate: 4.259, rarity: 3, img: "Capsule.png" },
     { name: "ナパームカプセル", rate: 4.259, rarity: 3, img: "Capsule.png" },
@@ -207,6 +207,45 @@ const gachaRates = {
     { name: "イベントコイン×10", rate: 0.500, rarity: 3, img: "Capsule.png" },
     { name: "ゲネガーグ", rate: 0.500, rarity: 3, img: "Capsule.png" },
     { name: "ウルトラマンZ", rate: 0.099, rarity: 4, img: "Capsule.png" }
+  ],
+  Hope: [
+    { name: "サークルカプセル", rate: 4.267, rarity: 3, img: "Capsule.png" },
+    { name: "ロケットカプセル", rate: 4.267, rarity: 3, img: "Capsule.png" },
+    { name: "ナパームカプセル", rate: 4.267, rarity: 3, img: "Capsule.png" },
+    { name: "リカバリーカプセル", rate: 4.267, rarity: 3, img: "Capsule.png" },
+    { name: "ブーメランカプセル", rate: 4.267, rarity: 3, img: "Capsule.png" },
+    { name: "クロックブースター", rate: 4.267, rarity: 3, img: "Capsule.png" },
+    { name: "トランスギア", rate: 4.267, rarity: 3, img: "Capsule.png" },
+    { name: "研究レポート", rate: 4.267, rarity: 3, img: "Capsule.png" },
+    { name: "クォーツ【◆】", rate: 4.267, rarity: 3, img: "Capsule.png" },
+    { name: "クォーツ【◆◆】", rate: 4.267, rarity: 3, img: "Capsule.png" },
+    { name: "クォーツ【◆◆◆】", rate: 4.267, rarity: 3, img: "Capsule.png" },
+    { name: "クリスタル【◆】", rate: 4.267, rarity: 3, img: "Capsule.png" },
+    { name: "クリスタル【◆◆】", rate: 4.267, rarity: 3, img: "Capsule.png" },
+    { name: "クリスタル【◆◆◆】", rate: 4.267, rarity: 3, img: "Capsule.png" },
+    { name: "ジェム【◆】", rate: 4.267, rarity: 3, img: "Capsule.png" },
+    { name: "ジェム【◆◆】", rate: 4.267, rarity: 3, img: "Capsule.png" },
+    { name: "ジェム【◆◆◆】", rate: 4.267, rarity: 3, img: "Capsule.png" },
+    { name: "イベントコイン×1", rate: 3.000, rarity: 3, img: "Capsule.png" },
+    { name: "ミラノス鉱石", rate: 1.833, rarity: 3, img: "Capsule.png" },
+    { name: "ミラノスディスク", rate: 1.833, rarity: 3, img: "Capsule.png" },
+    { name: "アームカプセル", rate: 1.833, rarity: 3, img: "Capsule.png" },
+    { name: "ピッケルカプセル", rate: 1.833, rarity: 3, img: "Capsule.png" },
+    { name: "Hドリルカプセル", rate: 1.833, rarity: 3, img: "Capsule.png" },
+    { name: "Vドリルカプセル", rate: 1.833, rarity: 3, img: "Capsule.png" },
+    { name: "クォーツ【◆◆◆◆】", rate: 1.833, rarity: 3, img: "Capsule.png" },
+    { name: "クォーツ【★】", rate: 1.833, rarity: 3, img: "Capsule.png" },
+    { name: "クリスタル【◆◆◆◆】", rate: 1.833, rarity: 3, img: "Capsule.png" },
+    { name: "クリスタル【★】", rate: 1.833, rarity: 3, img: "Capsule.png" },
+    { name: "ジェム【◆◆◆◆】", rate: 1.833, rarity: 3, img: "Capsule.png" },
+    { name: "ジェム【★】", rate: 1.833, rarity: 3, img: "Capsule.png" },
+    { name: "クォーツ【★★】", rate: 0.380, rarity: 3, img: "Capsule.png" },
+    { name: "クリスタル【★★】", rate: 0.380, rarity: 3, img: "Capsule.png" },
+    { name: "ジェム【★★】", rate: 0.380, rarity: 3, img: "Capsule.png" },
+    { name: "願いの印", rate: 0.380, rarity: 3, img: "Capsule.png" },
+    { name: "惑星の記憶", rate: 0.380, rarity: 3, img: "Capsule.png" },
+    { name: "イベントコイン×10", rate: 0.500, rarity: 3, img: "Capsule.png" },
+    { name: "ウルトラマントレギア", rate: 0.065, rarity: 4, img: "Capsule.png" }
   ]
 };
 
