@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <title>パズシュワ 攻略</title>
+  <meta name="description" content="ウルトラマンパズルシュワッチ パズシュワ 攻略 まとめ ">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="style.css">
+  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2529205461735673"
+     crossorigin="anonymous"></script>
+     
+     <style>
+body {
+  font-family: sans-serif;
+  padding: 10px;
+  font-size: 14px;
+}
+
+/* 上部固定 */
+.header {
+  top: 0;
+  /* background: #fff; */
+  z-index: 10;
+  padding-bottom: 10px;
+}
+
+/* タグUI */
+.tag-container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 14px;
+  padding: 8px 0;
+}
+
+.tag {
+  padding: 10px 14px;
+  border: 1px solid #aaa;
+  border-radius: 20px;
+  cursor: pointer;
+}
+
+.tag.active {
+  background: #007bff;
+  color: #fff;
+  border-color: #007bff;
+  font-weight: bold;
+}
+
+/* カード */
+.card {
+  border: 2px solid #ddd;
+  border-radius: 12px;
+  padding: 12px;
+  margin-bottom: 12px;
+  background: #0a3a6a;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+}
+
+.card strong {
+  display: inline-block;
+  background: #007bff;
+  color: #fff;
+  padding: 4px 8px;
+  border-radius: 6px;
+  margin-bottom: 6px;
+}
+
+/* クリック要素 */
+.char, .gimmick {
+  color: #e6f6ff;
+  cursor: pointer;
+  text-decoration: underline;
+}
+
+/* ページネーション */
+.pagination {
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+  margin-top: 10px;
+}
+
+button {
+  padding: 6px 10px;
+}
+</style>
+     
+</head>
+<body>
+
+<!-- 共通ヘッダー -->
+<div id="header"></div>
+
+<p class="notice">
+※当サイトは非公式ファン攻略サイトです。
+</p>
+
+<div class="container">
+
+  <!-- 共通目次 -->
+  <div id="toc-area"></div>
+
+  <!-- メイン -->
+  <main>
+  <div class="header">
+  <p>キャラ（最大3）</p>
+  <div id="charTags" class="tag-container"></div>
+
+  <p>ギミック（最大2）</p>
+  <div id="gimmickTags" class="tag-container"></div>
+
+  <h3>検索結果</h3>
+  <div id="result"></div>
+
+  </main>
+
+  <!-- サイドバー -->
+  <aside>
+    <div id="article-area"></div>
+  </aside>
+
+</div>
+
+<footer>
+  © ウルトラマンパズルシュワッチ攻略まとめ
+</footer>
+
+<script src="include.js" defer></script>
+<script src="search.js" defer></script>
+</body>
+</html>

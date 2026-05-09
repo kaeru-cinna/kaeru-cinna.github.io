@@ -67,21 +67,6 @@ header nav a {
   margin-bottom: 8px;
 }
 
-/* 折りたたみ */
-.toc-fixed.collapsed {
-  width: 60px;
-  padding: 10px;
-}
-
-.toc-fixed.collapsed h3 {
-  display: none;
-}
-
-.toc-fixed.collapsed a {
-  writing-mode: vertical-rl;
-  font-size: 12px;
-}
-
 /* ===== メイン ===== */
 main h2 {
   border-left: 4px solid #6ecbff;
