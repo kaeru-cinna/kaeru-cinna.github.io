@@ -5982,7 +5982,7 @@ const data = [
     ]
   },
   {
-    stage: "66",
+    stage: "696",
     wave: 1,
     characters: ["エルドギメラ","ガンQ","キリエロイド"],
     gimmicks: [
