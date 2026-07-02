@@ -36,6 +36,8 @@
       <li><a href="MainHard.html">メインステージ(HARD)の出現敵やギミック</a></li>
       <li><a href="Event.html">各イベント情報(願いの祭壇,追憶の祭壇,希望の祭壇)</a></li>
       <li><a href="Search.html">怪獣やギミックの検索はこちら</a></li>
+      <li><a href="DamageCalculation.html">スコア計算はこちら</a></li>
+      <li><a href="EnemyCalc.html">ダメージ上限計算はこちら</a></li>
       <li><a href="Invasion.html">演習/襲来(開催期間,ボス,ボーナスキャラ)</a></li>
       <li><a href="JointFront.html">共同戦線について</a></li>
       <li><a href="Gacha.html">ガチャシミュレーター</a></li>
@@ -113,6 +115,20 @@
 問題のある内容や修正要望がありましたら、
 お問い合わせページよりご連絡ください。</p>
 <br>
+<input type="password" id="passwordInput">
+<button onclick="checkPassword()">OK</button>
+
+<script>
+function checkPassword() {
+    const password = document.getElementById("passwordInput").value;
+
+    if (password === "solarisTeam") {
+        location.href = "Strategy.html";
+    } else {
+        alert("現在作成中です");
+    }
+}
+</script>
 
   </main>
 

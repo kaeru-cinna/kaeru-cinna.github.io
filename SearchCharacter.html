@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <title>パズシュワ 攻略</title>
+  <meta name="description" content="ウルトラマンパズルシュワッチ パズシュワ 攻略 まとめ キャラ 検索">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="style.css">
+  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2529205461735673"
+     crossorigin="anonymous"></script>
+     
+<style>
+#characterSearchPage{width:100%;max-width:100%;box-sizing:border-box;}
+#characterSearchTitle{margin:0 0 16px;font-size:32px;color:#fff;}
+#characterSearchTagArea{display:flex;flex-wrap:wrap;gap:10px;margin-bottom:16px}
+.characterSearchTagButton{padding:8px 16px;border:1px solid #bfc7d3;border-radius:999px;background:#f4f6f8;cursor:pointer;transition:.2s}
+.characterSearchTagButton:hover{background:#e7edf5}
+.characterSearchTagSelected{background:#2f7fd8!important;color:#fff;border-color:#2f7fd8}
+.characterSearchTableText{white-space: pre-line;}
+#characterSearchClearButton{margin-bottom:16px;padding:10px 18px;border:0;border-radius:6px;background:#666;color:#fff;cursor:pointer}
+#characterSearchResultCount{margin-bottom:12px;font-weight:bold;color:#fff;}
+#characterSearchTableWrap{overflow-x:auto}
+#characterSearchTable{width:100%;border-collapse:collapse}
+#characterSearchTable th{background:#285f9d;color:#fff;padding:12px;border:1px solid #d8d8d8;white-space:nowrap}
+#characterSearchTable td{padding:12px;border:1px solid #d8d8d8;vertical-align:middle}
+#characterSearchTable tr:nth-child(even){background:#fafafa}
+#characterSearchNoResult{display:none;margin-top:20px;text-align:center;color:#fff}
+@media(max-width:900px){#characterSearchTitle{font-size:26px}#characterSearchTable{font-size:14px}}
+</style>
+     
+</head>
+<body>
+
+<!-- 共通ヘッダー -->
+<div id="header"></div>
+
+<p class="notice">
+※当サイトは非公式ファン攻略サイトです。
+</p>
+
+<div class="container">
+
+  <!-- 共通目次 -->
+  <div id="toc-area"></div>
+
+  <!-- メイン -->
+  <main>
+  <div id="characterSearchPage">
+<h1 id="characterSearchTitle">キャラクター検索</h1>
+<div id="characterSearchTagArea"></div>
+<button id="characterSearchClearButton">タグを全解除</button>
+<div id="characterSearchResultCount">検索結果：0件</div>
+<div id="characterSearchTableWrap">
+<table id="characterSearchTable">
+<thead>
+<tr>
+<th>名前</th>
+<th>レア</th>
+<th>必殺技</th>
+<th>アビリティ</th>
+<th>リンクカード</th>
+</tr>
+</thead>
+<tbody id="characterSearchTableBody"></tbody>
+</table>
+</div>
+<div id="characterSearchNoResult">該当するキャラクターがありません</div>
+</div>
+
+  </main>
+
+  <!-- サイドバー -->
+  <aside>
+    <div id="article-area"></div>
+  </aside>
+
+</div>
+
+<footer>
+  © ウルトラマンパズルシュワッチ攻略まとめ
+</footer>
+
+<script src="include.js" defer></script>
+<script src="searchCharacter.js" defer></script>
+</body>
+</html>

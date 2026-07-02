@@ -1,0 +1,158 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <title>パズシュワ 攻略</title>
+  <meta name="description" content="ウルトラマンパズルシュワッチ パズシュワ 攻略 まとめ ダメージ 上限補正 計算">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="style.css">
+  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2529205461735673"
+     crossorigin="anonymous"></script>
+</head>
+<body>
+
+<!-- 共通ヘッダー -->
+<div id="header"></div>
+
+<p class="notice">
+※当サイトは非公式ファン攻略サイトです。
+</p>
+
+<div class="container">
+
+  <!-- 共通目次 -->
+  <div id="toc-area"></div>
+
+  <!-- メイン -->
+  <main>
+    <h2>ダメージ上限計算</h2>
+    <h3>使い方</h3>
+    <p>1.入力欄にステータス値の「ダメージ上限補正」を入力<br><br>
+       2.「計算」をタップ<br><br>
+       3.仮に敵防御値が10であればその欄の計算結果と自チームの攻撃力を比較<br><br>
+       ※通常パであれば通常攻撃力。bbパであれば各属性を参照<br><br>
+       4.計算結果より自チームの攻撃力が上であれば良し。下であれば強化/編成見直し推奨<br><br>
+       ※「分裂あり」はベリアルやアースガロンMod.2等を編成したときに参照する</p>
+    
+    <div id="enemyCalcContainer">
+
+  <input
+    type="number"
+    id="enemyCalcInput"
+    step="1"
+    min="0"
+    placeholder="ダメージ上限補正を入力">
+
+  <button id="enemyCalcButton">
+    計算
+  </button>
+
+  <table id="enemyCalcTable">
+    <tr>
+      <th></th>
+      <th>分裂なし</th>
+      <th>分裂あり</th>
+    </tr>
+
+    <tr>
+      <th class="enemyCalcRowHeader">敵防御力 10</th>
+      <td id="enemyCalcDef10Normal" class="enemyCalcResult">-</td>
+      <td id="enemyCalcDef10Split" class="enemyCalcResult">-</td>
+    </tr>
+
+    <tr>
+      <th class="enemyCalcRowHeader">敵防御力 30</th>
+      <td id="enemyCalcDef30Normal" class="enemyCalcResult">-</td>
+      <td id="enemyCalcDef30Split" class="enemyCalcResult">-</td>
+    </tr>
+
+    <tr>
+      <th class="enemyCalcRowHeader">敵防御力 85</th>
+      <td id="enemyCalcDef85Normal" class="enemyCalcResult">-</td>
+      <td id="enemyCalcDef85Split" class="enemyCalcResult">-</td>
+    </tr>
+
+    <tr>
+      <th class="enemyCalcRowHeader">敵防御力 215</th>
+      <td id="enemyCalcDef215Normal" class="enemyCalcResult">-</td>
+      <td id="enemyCalcDef215Split" class="enemyCalcResult">-</td>
+    </tr>
+
+    <tr>
+      <th class="enemyCalcRowHeader">敵防御力 1000</th>
+      <td id="enemyCalcDef1000Normal" class="enemyCalcResult">-</td>
+      <td id="enemyCalcDef1000Split" class="enemyCalcResult">-</td>
+    </tr>
+  </table>
+
+</div>
+
+<style>
+#enemyCalcContainer {
+  max-width: 700px;
+  margin: 24px auto;
+  padding: 20px;
+  background: #ffffff;
+  border: 1px solid #dcdcdc;
+  border-radius: 8px;
+}
+
+#enemyCalcInput {
+  width: 100%;
+  box-sizing: border-box;
+  padding: 12px;
+  font-size: 16px;
+  margin-bottom: 12px;
+}
+
+#enemyCalcButton {
+  width: 100%;
+  padding: 12px;
+  font-size: 16px;
+  cursor: pointer;
+  margin-bottom: 16px;
+}
+
+#enemyCalcTable {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+#enemyCalcTable th,
+#enemyCalcTable td {
+  border: 1px solid #d0d7de;
+  padding: 12px;
+  text-align: center;
+}
+
+#enemyCalcTable th {
+  background: #f5f5f5;
+}
+
+.enemyCalcRowHeader {
+  text-align: left;
+  white-space: nowrap;
+}
+
+.enemyCalcResult {
+  font-weight: bold;
+}
+</style>
+
+  </main>
+
+  <!-- サイドバー -->
+  <aside>
+    <div id="article-area"></div>
+  </aside>
+
+</div>
+
+<footer>
+  © ウルトラマンパズルシュワッチ攻略まとめ
+</footer>
+
+<script src="include.js" defer></script>
+<script src="enemyCalc.js" defer></script>
+</body>
+</html>

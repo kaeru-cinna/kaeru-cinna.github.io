@@ -164,9 +164,9 @@ const gachaRates = {
     { name: "願いの印", rate: 0.370, rarity: 3, img: "Capsule.png" },
     { name: "惑星の記憶", rate: 0.370, rarity: 3, img: "Capsule.png" },
     { name: "イベントコイン×10", rate: 0.500, rarity: 3, img: "Capsule.png" },
-    { name: "テクターギア・ゼロ", rate: 0.100, rarity: 4, img: "Capsule.png" },
-    { name: "テクターギア・ゼロ", rate: 0.100, rarity: 4, img: "Capsule.png" },
-    { name: "ゼロツインソード", rate: 0.051, rarity: 5, img: "Capsule.png" }
+    { name: "ビクトリー", rate: 0.100, rarity: 4, img: "Capsule.png" },
+    { name: "ビクトリー", rate: 0.100, rarity: 4, img: "Capsule.png" },
+    { name: "ギンガストリウム", rate: 0.051, rarity: 5, img: "Capsule.png" }
   ],
   Reminiscence: [
     { name: "サークルカプセル", rate: 4.265, rarity: 3, img: "Capsule.png" },
@@ -245,7 +245,7 @@ const gachaRates = {
     { name: "願いの印", rate: 0.380, rarity: 3, img: "Capsule.png" },
     { name: "惑星の記憶", rate: 0.380, rarity: 3, img: "Capsule.png" },
     { name: "イベントコイン×10", rate: 0.500, rarity: 3, img: "Capsule.png" },
-    { name: "ウルトラマントレギア", rate: 0.065, rarity: 4, img: "Capsule.png" }
+    { name: "ティガ&トリガー", rate: 0.065, rarity: 4, img: "Capsule.png" }
   ]
 };
 

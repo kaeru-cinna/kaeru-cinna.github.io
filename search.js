@@ -85,7 +85,7 @@ const data = [
     wave: 1,
     characters: ["ババルウ","デマーガ"],
     gimmicks: [
-      { name: "巨大植物", count: 8 }
+      { name: "ラフレシア", count: 8 }
     ]
   },
   {
@@ -93,7 +93,7 @@ const data = [
     wave: 2,
     characters: ["タガヌラー","タガヌラー","ババルウ"],
     gimmicks: [
-      { name: "巨大植物", count: 10 }
+      { name: "ラフレシア", count: 10 }
     ]
   },
   {
@@ -101,7 +101,7 @@ const data = [
     wave: 1,
     characters: ["ババルウ","デマーガ"],
     gimmicks: [
-      { name: "巨大植物", count: 12 }
+      { name: "ラフレシア", count: 12 }
     ]
   },
   {
@@ -109,7 +109,7 @@ const data = [
     wave: 2,
     characters: ["タガヌラー","ババルウ","デマーガ"],
     gimmicks: [
-      { name: "巨大植物", count: 14 }
+      { name: "ラフレシア", count: 14 }
     ]
   },
   {
@@ -117,7 +117,7 @@ const data = [
     wave: 2,
     characters: ["タガヌラー","ババルウ","モンスアーガー","ガンQ"],
     gimmicks: [
-      { name: "巨大植物", count: 16 }
+      { name: "ラフレシア", count: 16 }
     ]
   },
   {
@@ -125,7 +125,7 @@ const data = [
     wave: 1,
     characters: ["ババルウ","モンスアーガー","ガンQ"],
     gimmicks: [
-      { name: "巨大植物", count: 18 }
+      { name: "ラフレシア", count: 18 }
     ]
   },
   {
@@ -133,7 +133,7 @@ const data = [
     wave: 2,
     characters: ["モンスアーガー","タガヌラー","ババルウ"],
     gimmicks: [
-      { name: "巨大植物", count: 20 }
+      { name: "ラフレシア", count: 20 }
     ]
   },
   {
@@ -141,7 +141,7 @@ const data = [
     wave: 2,
     characters: ["タガヌラー","ババルウ","デマーガ"],
     gimmicks: [
-      { name: "巨大植物", count: 22 }
+      { name: "ラフレシア", count: 22 }
     ]
   },
   {
@@ -149,7 +149,7 @@ const data = [
     wave: 1,
     characters: ["ババルウ","モンスアーガー","ガンQ"],
     gimmicks: [
-      { name: "巨大植物", count: 24 }
+      { name: "ラフレシア", count: 24 }
     ]
   },
   {
@@ -157,7 +157,7 @@ const data = [
     wave: 1,
     characters: ["巨大ヤプール"],
     gimmicks: [
-      { name: "巨大植物", count: 26 }
+      { name: "ラフレシア", count: 26 }
     ]
   },
   {
@@ -325,7 +325,7 @@ const data = [
     wave: 1,
     characters: ["ベムスター","デスドラゴ"],
     gimmicks: [
-      { name: "砂", count: 8 }
+      { name: "砂岩", count: 8 }
     ]
   },
   {
@@ -333,7 +333,7 @@ const data = [
     wave: 2,
     characters: ["ゴモラ","ベムスター","デスドラゴ"],
     gimmicks: [
-      { name: "砂", count: 10 }
+      { name: "砂岩", count: 10 }
     ]
   },
   {
@@ -341,7 +341,7 @@ const data = [
     wave: 1,
     characters: ["ベムスター","デスドラゴ"],
     gimmicks: [
-      { name: "砂", count: 12 }
+      { name: "砂岩", count: 12 }
     ]
   },
   {
@@ -349,7 +349,7 @@ const data = [
     wave: 2,
     characters: ["ベムスター","デスドラゴ","ゴモラ"],
     gimmicks: [
-      { name: "砂", count: 14 }
+      { name: "砂岩", count: 14 }
     ]
   },
   {
@@ -357,7 +357,7 @@ const data = [
     wave: 2,
     characters: ["ベムスター","デスドラゴ","ベムスター","デスドラゴ"],
     gimmicks: [
-      { name: "砂", count: 16 }
+      { name: "砂岩", count: 16 }
     ]
   },
   {
@@ -365,7 +365,7 @@ const data = [
     wave: 1,
     characters: ["ベムスター","デスドラゴ","ゴモラ"],
     gimmicks: [
-      { name: "砂", count: 18 }
+      { name: "砂岩", count: 18 }
     ]
   },
   {
@@ -373,7 +373,7 @@ const data = [
     wave: 2,
     characters: ["ゴモラ","ベムスター","デスドラゴ"],
     gimmicks: [
-      { name: "砂", count: 20 }
+      { name: "砂岩", count: 20 }
     ]
   },
   {
@@ -381,7 +381,7 @@ const data = [
     wave: 2,
     characters: ["ベムスター","デスドラゴ","ゴモラ"],
     gimmicks: [
-      { name: "砂", count: 22 }
+      { name: "砂岩", count: 22 }
     ]
   },
   {
@@ -389,7 +389,7 @@ const data = [
     wave: 1,
     characters: ["ベムスター","デスドラゴ","ゴモラ"],
     gimmicks: [
-      { name: "砂", count: 24 }
+      { name: "砂岩", count: 24 }
     ]
   },
   {
@@ -397,7 +397,7 @@ const data = [
     wave: 1,
     characters: ["ゼットン"],
     gimmicks: [
-      { name: "砂", count: 26 }
+      { name: "砂岩", count: 26 }
     ]
   },
   {
@@ -485,7 +485,7 @@ const data = [
     wave: 1,
     characters: ["ゴルザ","メルバ"],
     gimmicks: [
-      { name: "ツル", count: 4 }
+      { name: "木の根", count: 4 }
     ]
   },
   {
@@ -493,7 +493,7 @@ const data = [
     wave: 2,
     characters: ["ダダ","ゴルザ","メルバ"],
     gimmicks: [
-      { name: "ツル", count: 6 }
+      { name: "木の根", count: 6 }
     ]
   },
   {
@@ -501,7 +501,7 @@ const data = [
     wave: 1,
     characters: ["ゴルザ","メルバ"],
     gimmicks: [
-      { name: "ツル", count: 8 }
+      { name: "木の根", count: 8 }
     ]
   },
   {
@@ -509,7 +509,7 @@ const data = [
     wave: 2,
     characters: ["ダダ","シャゴン","ゴルザ"],
     gimmicks: [
-      { name: "ツル", count: 10 }
+      { name: "木の根", count: 10 }
     ]
   },
   {
@@ -517,7 +517,7 @@ const data = [
     wave: 2,
     characters: ["ゴルザ","ダダ","シャゴン","メルバ"],
     gimmicks: [
-      { name: "ツル", count: 12 }
+      { name: "木の根", count: 12 }
     ]
   },
   {
@@ -525,7 +525,7 @@ const data = [
     wave: 1,
     characters: ["ゴルザ","シャゴン","メルバ"],
     gimmicks: [
-      { name: "ツル", count: 14 }
+      { name: "木の根", count: 14 }
     ]
   },
   {
@@ -533,7 +533,7 @@ const data = [
     wave: 2,
     characters: ["シャゴン","ゴルザ","メルバ"],
     gimmicks: [
-      { name: "ツル", count: 16 }
+      { name: "木の根", count: 16 }
     ]
   },
   {
@@ -541,7 +541,7 @@ const data = [
     wave: 2,
     characters: ["ゴルザ","メルバ","ダダ"],
     gimmicks: [
-      { name: "ツル", count: 18 }
+      { name: "木の根", count: 18 }
     ]
   },
   {
@@ -549,7 +549,7 @@ const data = [
     wave: 1,
     characters: ["ゴルザ","シャゴン","メルバ"],
     gimmicks: [
-      { name: "ツル", count: 20 }
+      { name: "木の根", count: 20 }
     ]
   },
   {
@@ -557,7 +557,7 @@ const data = [
     wave: 1,
     characters: ["ニジカガチ"],
     gimmicks: [
-      { name: "ツル", count: 22 }
+      { name: "木の根", count: 22 }
     ]
   },
   {
@@ -565,7 +565,7 @@ const data = [
     wave: 1,
     characters: ["エレキング","ババルウ"],
     gimmicks: [
-      { name: "氷", count: 4 }
+      { name: "氷結岩", count: 4 }
     ]
   },
   {
@@ -573,7 +573,7 @@ const data = [
     wave: 2,
     characters: ["ババルウ","レイキュバス","ゼットン"],
     gimmicks: [
-      { name: "氷", count: 6 }
+      { name: "氷結岩", count: 6 }
     ]
   },
   {
@@ -581,7 +581,7 @@ const data = [
     wave: 1,
     characters: ["エレキング","ババルウ"],
     gimmicks: [
-      { name: "氷", count: 8 }
+      { name: "氷結岩", count: 8 }
     ]
   },
   {
@@ -589,7 +589,7 @@ const data = [
     wave: 2,
     characters: ["ババルウ","エレキング","レイキュバス"],
     gimmicks: [
-      { name: "氷", count: 10 }
+      { name: "氷結岩", count: 10 }
     ]
   },
   {
@@ -597,7 +597,7 @@ const data = [
     wave: 2,
     characters: ["エレキング","レイキュバス","ババルウ","ゼットン"],
     gimmicks: [
-      { name: "氷", count: 12 }
+      { name: "氷結岩", count: 12 }
     ]
   },
   {
@@ -605,7 +605,7 @@ const data = [
     wave: 1,
     characters: ["ゼットン","レイキュバス","ババルウ"],
     gimmicks: [
-      { name: "氷", count: 14 }
+      { name: "氷結岩", count: 14 }
     ]
   },
   {
@@ -613,7 +613,7 @@ const data = [
     wave: 2,
     characters: ["エレキング","レイキュバス","ゼットン"],
     gimmicks: [
-      { name: "氷", count: 16 }
+      { name: "氷結岩", count: 16 }
     ]
   },
   {
@@ -621,7 +621,7 @@ const data = [
     wave: 2,
     characters: ["ババルウ","エレキング","レイキュバス"],
     gimmicks: [
-      { name: "氷", count: 18 }
+      { name: "氷結岩", count: 18 }
     ]
   },
   {
@@ -629,7 +629,7 @@ const data = [
     wave: 1,
     characters: ["ゼットン","レイキュバス","ババルウ"],
     gimmicks: [
-      { name: "氷", count: 20 }
+      { name: "氷結岩", count: 20 }
     ]
   },
   {
@@ -637,7 +637,7 @@ const data = [
     wave: 1,
     characters: ["エースキラー"],
     gimmicks: [
-      { name: "氷", count: 22 }
+      { name: "氷結岩", count: 22 }
     ]
   },
   {
@@ -645,7 +645,7 @@ const data = [
     wave: 1,
     characters: ["バルタン星人","バードン"],
     gimmicks: [
-      { name: "石化", count: 4 }
+      { name: "化石岩", count: 4 }
     ]
   },
   {
@@ -653,7 +653,7 @@ const data = [
     wave: 2,
     characters: ["ダダ","バードン","スラン星人"],
     gimmicks: [
-      { name: "石化", count: 6 }
+      { name: "化石岩", count: 6 }
     ]
   },
   {
@@ -661,7 +661,7 @@ const data = [
     wave: 1,
     characters: ["バルタン星人","バードン"],
     gimmicks: [
-      { name: "石化", count: 8 }
+      { name: "化石岩", count: 8 }
     ]
   },
   {
@@ -669,7 +669,7 @@ const data = [
     wave: 2,
     characters: ["バルタン星人","ダダ","スラン星人"],
     gimmicks: [
-      { name: "石化", count: 10 }
+      { name: "化石岩", count: 10 }
     ]
   },
   {
@@ -677,7 +677,7 @@ const data = [
     wave: 2,
     characters: ["モンスアーガー","ダダ","バードン","スラン星人"],
     gimmicks: [
-      { name: "石化", count: 12 }
+      { name: "化石岩", count: 12 }
     ]
   },
   {
@@ -685,7 +685,7 @@ const data = [
     wave: 1,
     characters: ["バードン","バルタン星人","スラン星人"],
     gimmicks: [
-      { name: "石化", count: 14 }
+      { name: "化石岩", count: 14 }
     ]
   },
   {
@@ -693,7 +693,7 @@ const data = [
     wave: 2,
     characters: ["バルタン星人","バードン","スラン星人"],
     gimmicks: [
-      { name: "石化", count: 16 }
+      { name: "化石岩", count: 16 }
     ]
   },
   {
@@ -701,7 +701,7 @@ const data = [
     wave: 2,
     characters: ["バードン","スラン星人","ダダ"],
     gimmicks: [
-      { name: "石化", count: 18 }
+      { name: "化石岩", count: 18 }
     ]
   },
   {
@@ -709,7 +709,7 @@ const data = [
     wave: 1,
     characters: ["バードン","バルタン星人","スラン星人"],
     gimmicks: [
-      { name: "石化", count: 20 }
+      { name: "化石岩", count: 20 }
     ]
   },
   {
@@ -717,7 +717,7 @@ const data = [
     wave: 1,
     characters: ["マグマ星人"],
     gimmicks: [
-      { name: "石化", count: 22 }
+      { name: "化石岩", count: 22 }
     ]
   },
   {
@@ -725,7 +725,7 @@ const data = [
     wave: 1,
     characters: ["ベムスター","ベロクロン"],
     gimmicks: [
-      { name: "石化", count: 4 }
+      { name: "化石岩", count: 4 }
     ]
   },
   {
@@ -733,7 +733,7 @@ const data = [
     wave: 2,
     characters: ["ベムスター","マグマ星人","ガゾート"],
     gimmicks: [
-      { name: "石化", count: 6 }
+      { name: "化石岩", count: 6 }
     ]
   },
   {
@@ -741,7 +741,7 @@ const data = [
     wave: 1,
     characters: ["ベムスター","ベロクロン"],
     gimmicks: [
-      { name: "石化", count: 8 }
+      { name: "化石岩", count: 8 }
     ]
   },
   {
@@ -749,7 +749,7 @@ const data = [
     wave: 2,
     characters: ["ベムスター","ベロクロン","ガゾート"],
     gimmicks: [
-      { name: "石化", count: 10 }
+      { name: "化石岩", count: 10 }
     ]
   },
   {
@@ -757,7 +757,7 @@ const data = [
     wave: 2,
     characters: ["ベムスター","ベロクロン","マグマ星人","ガゾート"],
     gimmicks: [
-      { name: "石化", count: 12 }
+      { name: "化石岩", count: 12 }
     ]
   },
   {
@@ -765,7 +765,7 @@ const data = [
     wave: 1,
     characters: ["ガゾート","マグマ星人","ベロクロン"],
     gimmicks: [
-      { name: "石化", count: 14 }
+      { name: "化石岩", count: 14 }
     ]
   },
   {
@@ -773,7 +773,7 @@ const data = [
     wave: 2,
     characters: ["ベロクロン","マグマ星人","ガゾート"],
     gimmicks: [
-      { name: "石化", count: 16 }
+      { name: "化石岩", count: 16 }
     ]
   },
   {
@@ -781,7 +781,7 @@ const data = [
     wave: 2,
     characters: ["ベロクロン","ベムスター","ガゾート"],
     gimmicks: [
-      { name: "石化", count: 18 }
+      { name: "化石岩", count: 18 }
     ]
   },
   {
@@ -789,7 +789,7 @@ const data = [
     wave: 1,
     characters: ["ガゾート","マグマ星人","ベロクロン"],
     gimmicks: [
-      { name: "石化", count: 20 }
+      { name: "化石岩", count: 20 }
     ]
   },
   {
@@ -797,7 +797,7 @@ const data = [
     wave: 1,
     characters: ["ホロボロス"],
     gimmicks: [
-      { name: "石化", count: 22 }
+      { name: "化石岩", count: 22 }
     ]
   },
   {
@@ -896,8 +896,8 @@ const data = [
     
     characters: ["ババルウ","デマーガ"],
     gimmicks: [
-      { name: "ツル", count: 4 },
-      { name: "巨大植物", count: 4 }
+      { name: "木の根", count: 4 },
+      { name: "ラフレシア", count: 4 }
     ]
   },
   {
@@ -905,8 +905,8 @@ const data = [
     wave: 2,
     characters: ["デマーガ","タガヌラー","ババルウ"],
     gimmicks: [
-      { name: "ツル", count: 5 },
-      { name: "巨大植物", count: 5 }
+      { name: "木の根", count: 5 },
+      { name: "ラフレシア", count: 5 }
     ]
   },
   {
@@ -914,8 +914,8 @@ const data = [
     wave: 1,
     characters: ["ババルウ","デマーガ"],
     gimmicks: [
-      { name: "ツル", count: 6 },
-      { name: "巨大植物", count: 6 }
+      { name: "木の根", count: 6 },
+      { name: "ラフレシア", count: 6 }
     ]
   },
   {
@@ -923,8 +923,8 @@ const data = [
     wave: 2,
     characters: ["タガヌラー","ババルウ","デマーガ"],
     gimmicks: [
-      { name: "ツル", count: 7 },
-      { name: "巨大植物", count: 7 }
+      { name: "木の根", count: 7 },
+      { name: "ラフレシア", count: 7 }
     ]
   },
   {
@@ -932,8 +932,8 @@ const data = [
     wave: 2,
     characters: ["ババルウ","タガヌラー","モンスアーガー","ガンQ"],
     gimmicks: [
-      { name: "ツル", count: 8 },
-      { name: "巨大植物", count: 8 }
+      { name: "木の根", count: 8 },
+      { name: "ラフレシア", count: 8 }
     ]
   },
   {
@@ -941,8 +941,8 @@ const data = [
     wave: 1,
     characters: ["モンスアーガー","ガンQ","ババルウ"],
     gimmicks: [
-      { name: "ツル", count: 9 },
-      { name: "巨大植物", count: 9 }
+      { name: "木の根", count: 9 },
+      { name: "ラフレシア", count: 9 }
     ]
   },
   {
@@ -950,8 +950,8 @@ const data = [
     wave: 2,
     characters: ["タガヌラー","ババルウ","タガヌラー"],
     gimmicks: [
-      { name: "ツル", count: 10 },
-      { name: "巨大植物", count: 10 }
+      { name: "木の根", count: 10 },
+      { name: "ラフレシア", count: 10 }
     ]
   },
   {
@@ -959,8 +959,8 @@ const data = [
     wave: 2,
     characters: ["タガヌラー","ババルウ","モンスアーガー"],
     gimmicks: [
-      { name: "ツル", count: 11 },
-      { name: "巨大植物", count: 11 }
+      { name: "木の根", count: 11 },
+      { name: "ラフレシア", count: 11 }
     ]
   },
   {
@@ -968,8 +968,8 @@ const data = [
     wave: 1,
     characters: ["モンスアーガー","ガンQ","ババルウ"],
     gimmicks: [
-      { name: "ツル", count: 12 },
-      { name: "巨大植物", count: 12 }
+      { name: "木の根", count: 12 },
+      { name: "ラフレシア", count: 12 }
     ]
   },
   {
@@ -977,8 +977,8 @@ const data = [
     wave: 1,
     characters: ["ダークメフィスト"],
     gimmicks: [
-      { name: "ツル", count: 18 },
-      { name: "巨大植物", count: 6 }
+      { name: "木の根", count: 18 },
+      { name: "ラフレシア", count: 6 }
     ]
   },
   {
@@ -986,7 +986,7 @@ const data = [
     wave: 1,
     characters: ["バルタン星人","エレキング"],
     gimmicks: [
-      { name: "氷", count: 4 },
+      { name: "氷結岩", count: 4 },
       { name: "雪", count: 4 }
     ]
   },
@@ -995,7 +995,7 @@ const data = [
     wave: 2,
     characters: ["エレキング","バルタン星人","ベロクロン"],
     gimmicks: [
-      { name: "氷", count: 5 },
+      { name: "氷結岩", count: 5 },
       { name: "雪", count: 5 }
     ]
   },
@@ -1004,7 +1004,7 @@ const data = [
     wave: 1,
     characters: ["バルタン星人","エレキング"],
     gimmicks: [
-      { name: "氷", count: 6 },
+      { name: "氷結岩", count: 6 },
       { name: "雪", count: 6 }
     ]
   },
@@ -1013,7 +1013,7 @@ const data = [
     wave: 2,
     characters: ["バルタン星人","ベロクロン","エレキング"],
     gimmicks: [
-      { name: "氷", count: 7 },
+      { name: "氷結岩", count: 7 },
       { name: "雪", count: 7 }
     ]
   },
@@ -1022,7 +1022,7 @@ const data = [
     wave: 2,
     characters: ["バルタン星人","ベロクロン","ガンQ","エレキング"],
     gimmicks: [
-      { name: "氷", count: 8 },
+      { name: "氷結岩", count: 8 },
       { name: "雪", count: 8 }
     ]
   },
@@ -1031,7 +1031,7 @@ const data = [
     wave: 1,
     characters: ["バルタン星人","エレキング","ガンQ"],
     gimmicks: [
-      { name: "氷", count: 9 },
+      { name: "氷結岩", count: 9 },
       { name: "雪", count: 9 }
     ]
   },
@@ -1040,7 +1040,7 @@ const data = [
     wave: 2,
     characters: ["エレキング","バルタン星人","ベロクロン"],
     gimmicks: [
-      { name: "氷", count: 10 },
+      { name: "氷結岩", count: 10 },
       { name: "雪", count: 10 }
     ]
   },
@@ -1049,7 +1049,7 @@ const data = [
     wave: 2,
     characters: ["バルタン星人","ベロクロン","エレキング"],
     gimmicks: [
-      { name: "氷", count: 11 },
+      { name: "氷結岩", count: 11 },
       { name: "雪", count: 11 }
     ]
   },
@@ -1058,7 +1058,7 @@ const data = [
     wave: 1,
     characters: ["バルタン星人","エレキング","ガンQ"],
     gimmicks: [
-      { name: "氷", count: 12 },
+      { name: "氷結岩", count: 12 },
       { name: "雪", count: 12 }
     ]
   },
@@ -1067,7 +1067,7 @@ const data = [
     wave: 1,
     characters: ["ダークルギエル"],
     gimmicks: [
-      { name: "氷", count: 18 },
+      { name: "氷結岩", count: 18 },
       { name: "雪", count: 6 }
     ]
   },
@@ -1076,7 +1076,7 @@ const data = [
     wave: 1,
     characters: ["スラン星人","ダダ"],
     gimmicks: [
-      { name: "石化", count: 4 },
+      { name: "化石岩", count: 4 },
       { name: "砂利", count: 4 }
     ]
   },
@@ -1085,7 +1085,7 @@ const data = [
     wave: 2,
     characters: ["モンスアーガー","ダダ","デマーガ"],
     gimmicks: [
-      { name: "石化", count: 5 },
+      { name: "化石岩", count: 5 },
       { name: "砂利", count: 5 }
     ]
   },
@@ -1094,7 +1094,7 @@ const data = [
     wave: 1,
     characters: ["スラン星人","ダダ"],
     gimmicks: [
-      { name: "石化", count: 6 },
+      { name: "化石岩", count: 6 },
       { name: "砂利", count: 6 }
     ]
   },
@@ -1103,7 +1103,7 @@ const data = [
     wave: 2,
     characters: ["ダダ","デマーガ","モンスアーガー"],
     gimmicks: [
-      { name: "石化", count: 7 },
+      { name: "化石岩", count: 7 },
       { name: "砂利", count: 7 }
     ]
   },
@@ -1112,7 +1112,7 @@ const data = [
     wave: 2,
     characters: ["モンスアーガー","ダダ","スラン星人","デマーガ"],
     gimmicks: [
-      { name: "石化", count: 8 },
+      { name: "化石岩", count: 8 },
       { name: "砂利", count: 8 }
     ]
   },
@@ -1121,7 +1121,7 @@ const data = [
     wave: 1,
     characters: ["スラン星人","モンスアーガー","ダダ"],
     gimmicks: [
-      { name: "石化", count: 9 },
+      { name: "化石岩", count: 9 },
       { name: "砂利", count: 9 }
     ]
   },
@@ -1130,7 +1130,7 @@ const data = [
     wave: 2,
     characters: ["スラン星人","ダダ","デマーガ"],
     gimmicks: [
-      { name: "石化", count: 10 },
+      { name: "化石岩", count: 10 },
       { name: "砂利", count: 10 }
     ]
   },
@@ -1139,7 +1139,7 @@ const data = [
     wave: 2,
     characters: ["ダダ","デマーガ","デマーガ"],
     gimmicks: [
-      { name: "石化", count: 11 },
+      { name: "化石岩", count: 11 },
       { name: "砂利", count: 11 }
     ]
   },
@@ -1148,7 +1148,7 @@ const data = [
     wave: 1,
     characters: ["スラン星人","モンスアーガー","ダダ"],
     gimmicks: [
-      { name: "石化", count: 12 },
+      { name: "化石岩", count: 12 },
       { name: "砂利", count: 12 }
     ]
   },
@@ -1157,7 +1157,7 @@ const data = [
     wave: 1,
     characters: ["ギャラクトロン"],
     gimmicks: [
-      { name: "石化", count: 18 },
+      { name: "化石岩", count: 18 },
       { name: "砂利", count: 6 }
     ]
   },
@@ -1166,8 +1166,8 @@ const data = [
     wave: 1,
     characters: ["ベムスター","デスドラゴ"],
     gimmicks: [
-      { name: "石化", count: 4 },
-      { name: "砂", count: 4 }
+      { name: "化石岩", count: 4 },
+      { name: "砂岩", count: 4 }
     ]
   },
   {
@@ -1175,8 +1175,8 @@ const data = [
     wave: 2,
     characters: ["ベムスター","デスドラゴ","ゴモラ"],
     gimmicks: [
-      { name: "石化", count: 5 },
-      { name: "砂", count: 5 }
+      { name: "化石岩", count: 5 },
+      { name: "砂岩", count: 5 }
     ]
   },
   {
@@ -1184,8 +1184,8 @@ const data = [
     wave: 1,
     characters: ["ベムスター","デスドラゴ"],
     gimmicks: [
-      { name: "石化", count: 6 },
-      { name: "砂", count: 6 }
+      { name: "化石岩", count: 6 },
+      { name: "砂岩", count: 6 }
     ]
   },
   {
@@ -1193,8 +1193,8 @@ const data = [
     wave: 2,
     characters: ["ベムスター","デスドラゴ","ゴモラ"],
     gimmicks: [
-      { name: "石化", count: 7 },
-      { name: "砂", count: 7 }
+      { name: "化石岩", count: 7 },
+      { name: "砂岩", count: 7 }
     ]
   },
   {
@@ -1202,8 +1202,8 @@ const data = [
     wave: 2,
     characters: ["ベムスター","ベムスター","デスドラゴ","デスドラゴ"],
     gimmicks: [
-      { name: "石化", count: 8 },
-      { name: "砂", count: 8 }
+      { name: "化石岩", count: 8 },
+      { name: "砂岩", count: 8 }
     ]
   },
   {
@@ -1211,8 +1211,8 @@ const data = [
     wave: 1,
     characters: ["ベムスター","デスドラゴ","ゴモラ"],
     gimmicks: [
-      { name: "石化", count: 9 },
-      { name: "砂", count: 9 }
+      { name: "化石岩", count: 9 },
+      { name: "砂岩", count: 9 }
     ]
   },
   {
@@ -1220,8 +1220,8 @@ const data = [
     wave: 2,
     characters: ["ベムスター","デスドラゴ","ゴモラ"],
     gimmicks: [
-      { name: "石化", count: 10 },
-      { name: "砂", count: 10 }
+      { name: "化石岩", count: 10 },
+      { name: "砂岩", count: 10 }
     ]
   },
   {
@@ -1229,8 +1229,8 @@ const data = [
     wave: 2,
     characters: ["ベムスター","デスドラゴ","ゴモラ"],
     gimmicks: [
-      { name: "石化", count: 11 },
-      { name: "砂", count: 11 }
+      { name: "化石岩", count: 11 },
+      { name: "砂岩", count: 11 }
     ]
   },
   {
@@ -1238,8 +1238,8 @@ const data = [
     wave: 1,
     characters: ["ベムスター","デスドラゴ","ゴモラ"],
     gimmicks: [
-      { name: "石化", count: 12 },
-      { name: "砂", count: 12 }
+      { name: "化石岩", count: 12 },
+      { name: "砂岩", count: 12 }
     ]
   },
   {
@@ -1247,8 +1247,8 @@ const data = [
     wave: 1,
     characters: ["グランドキング"],
     gimmicks: [
-      { name: "石化", count: 18 },
-      { name: "砂", count: 6 }
+      { name: "化石岩", count: 18 },
+      { name: "砂岩", count: 6 }
     ]
   },
   {
@@ -1354,7 +1354,7 @@ const data = [
     characters: ["ダダ","ゴルザ","メルバ"],
     gimmicks: [
       { name: "丸太", count: 5 },
-      { name: "巨大植物", count: 1 }
+      { name: "ラフレシア", count: 1 }
     ]
   },
   {
@@ -1363,7 +1363,7 @@ const data = [
     characters: ["ゴルザ","メルバ"],
     gimmicks: [
       { name: "丸太", count: 6 },
-      { name: "巨大植物", count: 2 }
+      { name: "ラフレシア", count: 2 }
     ]
   },
   {
@@ -1372,7 +1372,7 @@ const data = [
     characters: ["ダダ","シャゴン","ゴルザ"],
     gimmicks: [
       { name: "丸太", count: 7 },
-      { name: "巨大植物", count: 3 }
+      { name: "ラフレシア", count: 3 }
     ]
   },
   {
@@ -1381,7 +1381,7 @@ const data = [
     characters: ["ダダ","ゴルザ","メルバ","シャゴン"],
     gimmicks: [
       { name: "丸太", count: 8 },
-      { name: "巨大植物", count: 4 }
+      { name: "ラフレシア", count: 4 }
     ]
   },
   {
@@ -1390,7 +1390,7 @@ const data = [
     characters: ["ゴルザ","シャゴン","メルバ"],
     gimmicks: [
       { name: "丸太", count: 9 },
-      { name: "巨大植物", count: 5 }
+      { name: "ラフレシア", count: 5 }
     ]
   },
   {
@@ -1399,7 +1399,7 @@ const data = [
     characters: ["シャゴン","ゴルザ","メルバ"],
     gimmicks: [
       { name: "丸太", count: 10 },
-      { name: "巨大植物", count: 6 }
+      { name: "ラフレシア", count: 6 }
     ]
   },
   {
@@ -1408,7 +1408,7 @@ const data = [
     characters: ["ダダ","ゴルザ","メルバ"],
     gimmicks: [
       { name: "丸太", count: 11 },
-      { name: "巨大植物", count: 7 }
+      { name: "ラフレシア", count: 7 }
     ]
   },
   {
@@ -1417,7 +1417,7 @@ const data = [
     characters: ["ゴルザ","シャゴン","メルバ"],
     gimmicks: [
       { name: "丸太", count: 12 },
-      { name: "巨大植物", count: 8 }
+      { name: "ラフレシア", count: 8 }
     ]
   },
   {
@@ -1426,7 +1426,7 @@ const data = [
     characters: ["デストルドス"],
     gimmicks: [
       { name: "丸太", count: 13 },
-      { name: "巨大植物", count: 9 }
+      { name: "ラフレシア", count: 9 }
     ]
   },
   {
@@ -1523,7 +1523,7 @@ const data = [
     wave: 1,
     characters: ["バルタン星人","バードン"],
     gimmicks: [
-      { name: "岩石", count: 4 }
+      { name: "岩", count: 4 }
     ]
   },
   {
@@ -1531,7 +1531,7 @@ const data = [
     wave: 2,
     characters: ["バードン","スラン星人","ダダ"],
     gimmicks: [
-      { name: "岩石", count: 5 },
+      { name: "岩", count: 5 },
       { name: "砂利", count: 1 }
     ]
   },
@@ -1540,7 +1540,7 @@ const data = [
     wave: 1,
     characters: ["バルタン星人","バードン"],
     gimmicks: [
-      { name: "岩石", count: 6 },
+      { name: "岩", count: 6 },
       { name: "砂利", count: 2 }
     ]
   },
@@ -1549,7 +1549,7 @@ const data = [
     wave: 2,
     characters: ["バルタン星人","ダダ","スラン星人"],
     gimmicks: [
-      { name: "岩石", count: 7 },
+      { name: "岩", count: 7 },
       { name: "砂利", count: 3 }
     ]
   },
@@ -1558,7 +1558,7 @@ const data = [
     wave: 2,
     characters: ["モンスアーガー","ダダ","バードン","スラン星人"],
     gimmicks: [
-      { name: "岩石", count: 8 },
+      { name: "岩", count: 8 },
       { name: "砂利", count: 4 }
     ]
   },
@@ -1567,7 +1567,7 @@ const data = [
     wave: 1,
     characters: ["バードン","バルタン星人","スラン星人"],
     gimmicks: [
-      { name: "岩石", count: 9 },
+      { name: "岩", count: 9 },
       { name: "砂利", count: 5 }
     ]
   },
@@ -1576,7 +1576,7 @@ const data = [
     wave: 2,
     characters: ["バルタン星人","バードン","スラン星人"],
     gimmicks: [
-      { name: "岩石", count: 10 },
+      { name: "岩", count: 10 },
       { name: "砂利", count: 6 }
     ]
   },
@@ -1585,7 +1585,7 @@ const data = [
     wave: 2,
     characters: ["バードン","スラン星人","ダダ"],
     gimmicks: [
-      { name: "岩石", count: 11 },
+      { name: "岩", count: 11 },
       { name: "砂利", count: 7 }
     ]
   },
@@ -1594,7 +1594,7 @@ const data = [
     wave: 1,
     characters: ["バードン","バルタン星人","スラン星人"],
     gimmicks: [
-      { name: "岩石", count: 12 },
+      { name: "岩", count: 12 },
       { name: "砂利", count: 8 }
     ]
   },
@@ -1603,7 +1603,7 @@ const data = [
     wave: 1,
     characters: ["マグマ星人"],
     gimmicks: [
-      { name: "岩石", count: 13 },
+      { name: "岩", count: 13 },
       { name: "砂利", count: 9 }
     ]
   },
@@ -1621,7 +1621,7 @@ const data = [
     characters: ["ベロクロン","マグマ星人","ガゾート"],
     gimmicks: [
       { name: "神殿", count: 5 },
-      { name: "砂", count: 1 }
+      { name: "砂岩", count: 1 }
     ]
   },
   {
@@ -1630,7 +1630,7 @@ const data = [
     characters: ["ベムスター","ベロクロン"],
     gimmicks: [
       { name: "神殿", count: 6 },
-      { name: "砂", count: 2 }
+      { name: "砂岩", count: 2 }
     ]
   },
   {
@@ -1639,7 +1639,7 @@ const data = [
     characters: ["ベロクロン","ベムスター","マグマ星人"],
     gimmicks: [
       { name: "神殿", count: 7 },
-      { name: "砂", count: 3 }
+      { name: "砂岩", count: 3 }
     ]
   },
   {
@@ -1648,7 +1648,7 @@ const data = [
     characters: ["ベムスター","ベロクロン","マグマ星人","ガゾート"],
     gimmicks: [
       { name: "神殿", count: 8 },
-      { name: "砂", count: 4 }
+      { name: "砂岩", count: 4 }
     ]
   },
   {
@@ -1657,7 +1657,7 @@ const data = [
     characters: ["ガゾート","マグマ星人","ベロクロン"],
     gimmicks: [
       { name: "神殿", count: 9 },
-      { name: "砂", count: 5 }
+      { name: "砂岩", count: 5 }
     ]
   },
   {
@@ -1666,7 +1666,7 @@ const data = [
     characters: ["ベムスター","マグマ星人","ガゾート"],
     gimmicks: [
       { name: "神殿", count: 10 },
-      { name: "砂", count: 6 }
+      { name: "砂岩", count: 6 }
     ]
   },
   {
@@ -1675,7 +1675,7 @@ const data = [
     characters: ["ベロクロン","ベムスター","マグマ星人"],
     gimmicks: [
       { name: "神殿", count: 11 },
-      { name: "砂", count: 7 }
+      { name: "砂岩", count: 7 }
     ]
   },
   {
@@ -1684,7 +1684,7 @@ const data = [
     characters: ["ガゾート","マグマ星人","ベロクロン"],
     gimmicks: [
       { name: "神殿", count: 12 },
-      { name: "砂", count: 8 }
+      { name: "砂岩", count: 8 }
     ]
   },
   {
@@ -1693,7 +1693,7 @@ const data = [
     characters: ["ゼットン"],
     gimmicks: [
       { name: "神殿", count: 13 },
-      { name: "砂", count: 9 }
+      { name: "砂岩", count: 9 }
     ]
   },
   {
@@ -1791,8 +1791,8 @@ const data = [
     wave: 1,
     characters: ["ババルウ","デマーガ"],
     gimmicks: [
-      { name: "ツル", count: 4 },
-      { name: "巨大植物", count: 4 }
+      { name: "木の根", count: 4 },
+      { name: "ラフレシア", count: 4 }
     ]
   },
   {
@@ -1800,8 +1800,8 @@ const data = [
     wave: 2,
     characters: ["モンスアーガー","タガヌラー","ババルウ"],
     gimmicks: [
-      { name: "ツル", count: 5 },
-      { name: "巨大植物", count: 5 }
+      { name: "木の根", count: 5 },
+      { name: "ラフレシア", count: 5 }
     ]
   },
   {
@@ -1809,8 +1809,8 @@ const data = [
     wave: 1,
     characters: ["ババルウ","デマーガ"],
     gimmicks: [
-      { name: "ツル", count: 6 },
-      { name: "巨大植物", count: 6 }
+      { name: "木の根", count: 6 },
+      { name: "ラフレシア", count: 6 }
     ]
   },
   {
@@ -1818,8 +1818,8 @@ const data = [
     wave: 2,
     characters: ["タガヌラー","ババルウ","モンスアーガー"],
     gimmicks: [
-      { name: "ツル", count: 7 },
-      { name: "巨大植物", count: 7 }
+      { name: "木の根", count: 7 },
+      { name: "ラフレシア", count: 7 }
     ]
   },
   {
@@ -1827,8 +1827,8 @@ const data = [
     wave: 2,
     characters: ["タガヌラー","ババルウ","モンスアーガー","ガンQ"],
     gimmicks: [
-      { name: "ツル", count: 8 },
-      { name: "巨大植物", count: 8 }
+      { name: "木の根", count: 8 },
+      { name: "ラフレシア", count: 8 }
     ]
   },
   {
@@ -1836,8 +1836,8 @@ const data = [
     wave: 1,
     characters: ["モンスアーガー","ガンQ","ババルウ"],
     gimmicks: [
-      { name: "ツル", count: 9 },
-      { name: "巨大植物", count: 9 }
+      { name: "木の根", count: 9 },
+      { name: "ラフレシア", count: 9 }
     ]
   },
   {
@@ -1845,8 +1845,8 @@ const data = [
     wave: 2,
     characters: ["デマーガ","タガヌラー","ババルウ"],
     gimmicks: [
-      { name: "ツル", count: 10 },
-      { name: "巨大植物", count: 10 }
+      { name: "木の根", count: 10 },
+      { name: "ラフレシア", count: 10 }
     ]
   },
   {
@@ -1854,8 +1854,8 @@ const data = [
     wave: 2,
     characters: ["タガヌラー","ババルウ","モンスアーガー"],
     gimmicks: [
-      { name: "ツル", count: 11 },
-      { name: "巨大植物", count: 11 }
+      { name: "木の根", count: 11 },
+      { name: "ラフレシア", count: 11 }
     ]
   },
   {
@@ -1863,8 +1863,8 @@ const data = [
     wave: 1,
     characters: ["モンスアーガー","ガンQ","ババルウ"],
     gimmicks: [
-      { name: "ツル", count: 12 },
-      { name: "巨大植物", count: 12 }
+      { name: "木の根", count: 12 },
+      { name: "ラフレシア", count: 12 }
     ]
   },
   {
@@ -1872,8 +1872,8 @@ const data = [
     wave: 1,
     characters: ["巨大ヤプール"],
     gimmicks: [
-      { name: "ツル", count: 8 },
-      { name: "巨大植物", count: 16 }
+      { name: "木の根", count: 8 },
+      { name: "ラフレシア", count: 16 }
     ]
   },
   {
@@ -1881,7 +1881,7 @@ const data = [
     wave: 1,
     characters: ["バルタン星人","エレキング"],
     gimmicks: [
-      { name: "氷", count: 4 },
+      { name: "氷結岩", count: 4 },
       { name: "雪", count: 4 }
     ]
   },
@@ -1890,7 +1890,7 @@ const data = [
     wave: 2,
     characters: ["エレキング","バルタン星人","ベロクロン"],
     gimmicks: [
-      { name: "氷", count: 5 },
+      { name: "氷結岩", count: 5 },
       { name: "雪", count: 5 }
     ]
   },
@@ -1899,7 +1899,7 @@ const data = [
     wave: 1,
     characters: ["バルタン星人","エレキング"],
     gimmicks: [
-      { name: "氷", count: 6 },
+      { name: "氷結岩", count: 6 },
       { name: "雪", count: 6 }
     ]
   },
@@ -1908,7 +1908,7 @@ const data = [
     wave: 2,
     characters: ["バルタン星人","ベロクロン","エレキング"],
     gimmicks: [
-      { name: "氷", count: 7 },
+      { name: "氷結岩", count: 7 },
       { name: "雪", count: 7 }
     ]
   },
@@ -1917,7 +1917,7 @@ const data = [
     wave: 2,
     characters: ["バルタン星人","ベロクロン","ガンQ","エレキング"],
     gimmicks: [
-      { name: "氷", count: 8 },
+      { name: "氷結岩", count: 8 },
       { name: "雪", count: 8 }
     ]
   },
@@ -1926,7 +1926,7 @@ const data = [
     wave: 1,
     characters: ["バルタン星人","エレキング","ガンQ"],
     gimmicks: [
-      { name: "氷", count: 9 },
+      { name: "氷結岩", count: 9 },
       { name: "雪", count: 9 }
     ]
   },
@@ -1935,7 +1935,7 @@ const data = [
     wave: 2,
     characters: ["エレキング","バルタン星人","ベロクロン"],
     gimmicks: [
-      { name: "氷", count: 10 },
+      { name: "氷結岩", count: 10 },
       { name: "雪", count: 10 }
     ]
   },
@@ -1944,7 +1944,7 @@ const data = [
     wave: 2,
     characters: ["バルタン星人","ベロクロン","エレキング"],
     gimmicks: [
-      { name: "氷", count: 11 },
+      { name: "氷結岩", count: 11 },
       { name: "雪", count: 11 }
     ]
   },
@@ -1953,7 +1953,7 @@ const data = [
     wave: 1,
     characters: ["バルタン星人","エレキング","ガンQ"],
     gimmicks: [
-      { name: "氷", count: 12 },
+      { name: "氷結岩", count: 12 },
       { name: "雪", count: 12 }
     ]
   },
@@ -1962,7 +1962,7 @@ const data = [
     wave: 1,
     characters: ["レイキュバス"],
     gimmicks: [
-      { name: "氷", count: 8 },
+      { name: "氷結岩", count: 8 },
       { name: "雪", count: 16 }
     ]
   },
@@ -1971,7 +1971,7 @@ const data = [
     wave: 1,
     characters: ["スラン星人","ダダ"],
     gimmicks: [
-      { name: "石化", count: 4 },
+      { name: "化石岩", count: 4 },
       { name: "砂利", count: 4 }
     ]
   },
@@ -1980,7 +1980,7 @@ const data = [
     wave: 2,
     characters: ["デマーガ","デマーガ","ダダ"],
     gimmicks: [
-      { name: "石化", count: 5 },
+      { name: "化石岩", count: 5 },
       { name: "砂利", count: 5 }
     ]
   },
@@ -1989,7 +1989,7 @@ const data = [
     wave: 1,
     characters: ["スラン星人","ダダ"],
     gimmicks: [
-      { name: "石化", count: 6 },
+      { name: "化石岩", count: 6 },
       { name: "砂利", count: 6 }
     ]
   },
@@ -1998,7 +1998,7 @@ const data = [
     wave: 2,
     characters: ["デマーガ","デマーガ","ダダ"],
     gimmicks: [
-      { name: "石化", count: 7 },
+      { name: "化石岩", count: 7 },
       { name: "砂利", count: 7 }
     ]
   },
@@ -2007,7 +2007,7 @@ const data = [
     wave: 2,
     characters: ["モンスアーガー","ダダ","デマーガ","スラン星人"],
     gimmicks: [
-      { name: "石化", count: 8 },
+      { name: "化石岩", count: 8 },
       { name: "砂利", count: 8 }
     ]
   },
@@ -2016,7 +2016,7 @@ const data = [
     wave: 1,
     characters: ["スラン星人","モンスアーガー","ダダ"],
     gimmicks: [
-      { name: "石化", count: 9 },
+      { name: "化石岩", count: 9 },
       { name: "砂利", count: 9 }
     ]
   },
@@ -2025,7 +2025,7 @@ const data = [
     wave: 2,
     characters: ["モンスアーガー","ダダ","デマーガ"],
     gimmicks: [
-      { name: "石化", count: 10 },
+      { name: "化石岩", count: 10 },
       { name: "砂利", count: 10 }
     ]
   },
@@ -2034,7 +2034,7 @@ const data = [
     wave: 2,
     characters: ["デマーガ","ダダ","ダダ"],
     gimmicks: [
-      { name: "石化", count: 11 },
+      { name: "化石岩", count: 11 },
       { name: "砂利", count: 11 }
     ]
   },
@@ -2043,7 +2043,7 @@ const data = [
     wave: 1,
     characters: ["スラン星人","モンスアーガー","ダダ"],
     gimmicks: [
-      { name: "石化", count: 12 },
+      { name: "化石岩", count: 12 },
       { name: "砂利", count: 12 }
     ]
   },
@@ -2052,7 +2052,7 @@ const data = [
     wave: 1,
     characters: ["バードン"],
     gimmicks: [
-      { name: "石化", count: 8 },
+      { name: "化石岩", count: 8 },
       { name: "砂利", count: 16 }
     ]
   },
@@ -2061,8 +2061,8 @@ const data = [
     wave: 1,
     characters: ["ベムスター","デスドラゴ"],
     gimmicks: [
-      { name: "石化", count: 4 },
-      { name: "砂", count: 4 }
+      { name: "化石岩", count: 4 },
+      { name: "砂岩", count: 4 }
     ]
   },
   {
@@ -2070,8 +2070,8 @@ const data = [
     wave: 2,
     characters: ["ゴモラ","ベムスター","デスドラゴ"],
     gimmicks: [
-      { name: "石化", count: 5 },
-      { name: "砂", count: 5 }
+      { name: "化石岩", count: 5 },
+      { name: "砂岩", count: 5 }
     ]
   },
   {
@@ -2079,8 +2079,8 @@ const data = [
     wave: 1,
     characters: ["ベムスター","デスドラゴ"],
     gimmicks: [
-      { name: "石化", count: 6 },
-      { name: "砂", count: 6 }
+      { name: "化石岩", count: 6 },
+      { name: "砂岩", count: 6 }
     ]
   },
   {
@@ -2088,8 +2088,8 @@ const data = [
     wave: 2,
     characters: ["ベムスター","デスドラゴ","ゴモラ"],
     gimmicks: [
-      { name: "石化", count: 7 },
-      { name: "砂", count: 7 }
+      { name: "化石岩", count: 7 },
+      { name: "砂岩", count: 7 }
     ]
   },
   {
@@ -2097,8 +2097,8 @@ const data = [
     wave: 2,
     characters: ["ベムスター","ベムスター","デスドラゴ","デスドラゴ"],
     gimmicks: [
-      { name: "石化", count: 8 },
-      { name: "砂", count: 8 }
+      { name: "化石岩", count: 8 },
+      { name: "砂岩", count: 8 }
     ]
   },
   {
@@ -2106,8 +2106,8 @@ const data = [
     wave: 1,
     characters: ["デスドラゴ","ベムスター","ゴモラ"],
     gimmicks: [
-      { name: "石化", count: 9 },
-      { name: "砂", count: 9 }
+      { name: "化石岩", count: 9 },
+      { name: "砂岩", count: 9 }
     ]
   },
   {
@@ -2115,8 +2115,8 @@ const data = [
     wave: 2,
     characters: ["デスドラゴ","ベムスター","ゴモラ"],
     gimmicks: [
-      { name: "石化", count: 10 },
-      { name: "砂", count: 10 }
+      { name: "化石岩", count: 10 },
+      { name: "砂岩", count: 10 }
     ]
   },
   {
@@ -2124,8 +2124,8 @@ const data = [
     wave: 2,
     characters: ["デスドラゴ","ベムスター","ゴモラ"],
     gimmicks: [
-      { name: "石化", count: 11 },
-      { name: "砂", count: 11 }
+      { name: "化石岩", count: 11 },
+      { name: "砂岩", count: 11 }
     ]
   },
   {
@@ -2133,8 +2133,8 @@ const data = [
     wave: 1,
     characters: ["デスドラゴ","ベムスター","ゴモラ"],
     gimmicks: [
-      { name: "石化", count: 12 },
-      { name: "砂", count: 12 }
+      { name: "化石岩", count: 12 },
+      { name: "砂岩", count: 12 }
     ]
   },
   {
@@ -2142,8 +2142,8 @@ const data = [
     wave: 1,
     characters: ["ホロボロス"],
     gimmicks: [
-      { name: "石化", count: 8 },
-      { name: "砂", count: 16 }
+      { name: "化石岩", count: 8 },
+      { name: "砂岩", count: 16 }
     ]
   },
   {
@@ -2241,8 +2241,8 @@ const data = [
     wave: 1,
     characters: ["ゴルザ","メルバ"],
     gimmicks: [
-      { name: "巨大植物", count: 4 },
-      { name: "ツル", count: 4 }
+      { name: "ラフレシア", count: 4 },
+      { name: "木の根", count: 4 }
     ]
   },
   {
@@ -2250,8 +2250,8 @@ const data = [
     wave: 2,
     characters: ["シャゴン","ゴルザ","メルバ"],
     gimmicks: [
-      { name: "巨大植物", count: 5 },
-      { name: "ツル", count: 5 }
+      { name: "ラフレシア", count: 5 },
+      { name: "木の根", count: 5 }
     ]
   },
   {
@@ -2259,8 +2259,8 @@ const data = [
     wave: 1,
     characters: ["ゴルザ","メルバ"],
     gimmicks: [
-      { name: "巨大植物", count: 6 },
-      { name: "ツル", count: 6 }
+      { name: "ラフレシア", count: 6 },
+      { name: "木の根", count: 6 }
     ]
   },
   {
@@ -2268,8 +2268,8 @@ const data = [
     wave: 2,
     characters: ["ダダ","シャゴン","メルバ"],
     gimmicks: [
-      { name: "巨大植物", count: 7 },
-      { name: "ツル", count: 7 }
+      { name: "ラフレシア", count: 7 },
+      { name: "木の根", count: 7 }
     ]
   },
   {
@@ -2277,8 +2277,8 @@ const data = [
     wave: 2,
     characters: ["ゴルザ","ダダ","シャゴン","メルバ"],
     gimmicks: [
-      { name: "巨大植物", count: 8 },
-      { name: "ツル", count: 8 }
+      { name: "ラフレシア", count: 8 },
+      { name: "木の根", count: 8 }
     ]
   },
   {
@@ -2286,8 +2286,8 @@ const data = [
     wave: 1,
     characters: ["ゴルザ","シャゴン","メルバ"],
     gimmicks: [
-      { name: "巨大植物", count: 9 },
-      { name: "ツル", count: 9 }
+      { name: "ラフレシア", count: 9 },
+      { name: "木の根", count: 9 }
     ]
   },
   {
@@ -2295,8 +2295,8 @@ const data = [
     wave: 2,
     characters: ["ダダ","ゴルザ","メルバ"],
     gimmicks: [
-      { name: "巨大植物", count: 10 },
-      { name: "ツル", count: 10 }
+      { name: "ラフレシア", count: 10 },
+      { name: "木の根", count: 10 }
     ]
   },
   {
@@ -2304,8 +2304,8 @@ const data = [
     wave: 2,
     characters: ["ゴルザ","シャゴン","メルバ"],
     gimmicks: [
-      { name: "巨大植物", count: 11 },
-      { name: "ツル", count: 11 }
+      { name: "ラフレシア", count: 11 },
+      { name: "木の根", count: 11 }
     ]
   },
   {
@@ -2313,8 +2313,8 @@ const data = [
     wave: 1,
     characters: ["ゴルザ","シャゴン","メルバ"],
     gimmicks: [
-      { name: "巨大植物", count: 12 },
-      { name: "ツル", count: 12 }
+      { name: "ラフレシア", count: 12 },
+      { name: "木の根", count: 12 }
     ]
   },
   {
@@ -2322,8 +2322,8 @@ const data = [
     wave: 1,
     characters: ["ニジカガチ"],
     gimmicks: [
-      { name: "巨大植物", count: 11 },
-      { name: "ツル", count: 13 }
+      { name: "ラフレシア", count: 11 },
+      { name: "木の根", count: 13 }
     ]
   },
   {
@@ -2332,7 +2332,7 @@ const data = [
     characters: ["ババルウ","エレキング"],
     gimmicks: [
       { name: "雪", count: 4 },
-      { name: "氷", count: 4 }
+      { name: "氷結岩", count: 4 }
     ]
   },
   {
@@ -2341,7 +2341,7 @@ const data = [
     characters: ["エレキング","レイキュバス","ゼットン"],
     gimmicks: [
       { name: "雪", count: 5 },
-      { name: "氷", count: 5 }
+      { name: "氷結岩", count: 5 }
     ]
   },
   {
@@ -2350,7 +2350,7 @@ const data = [
     characters: ["ババルウ","エレキング"],
     gimmicks: [
       { name: "雪", count: 6 },
-      { name: "氷", count: 6 }
+      { name: "氷結岩", count: 6 }
     ]
   },
   {
@@ -2359,7 +2359,7 @@ const data = [
     characters: ["ババルウ","エレキング","ゼットン"],
     gimmicks: [
       { name: "雪", count: 7 },
-      { name: "氷", count: 7 }
+      { name: "氷結岩", count: 7 }
     ]
   },
   {
@@ -2368,7 +2368,7 @@ const data = [
     characters: ["エレキング","レイキュバス","ゼットン","ババルウ"],
     gimmicks: [
       { name: "雪", count: 8 },
-      { name: "氷", count: 8 }
+      { name: "氷結岩", count: 8 }
     ]
   },
   {
@@ -2377,7 +2377,7 @@ const data = [
     characters: ["ゼットン","レイキュバス","ババルウ"],
     gimmicks: [
       { name: "雪", count: 9 },
-      { name: "氷", count: 9 }
+      { name: "氷結岩", count: 9 }
     ]
   },
   {
@@ -2386,7 +2386,7 @@ const data = [
     characters: ["ババルウ","レイキュバス","ゼットン"],
     gimmicks: [
       { name: "雪", count: 10 },
-      { name: "氷", count: 10 }
+      { name: "氷結岩", count: 10 }
     ]
   },
   {
@@ -2395,7 +2395,7 @@ const data = [
     characters: ["ババルウ","レイキュバス","ゼットン"],
     gimmicks: [
       { name: "雪", count: 11 },
-      { name: "氷", count: 11 }
+      { name: "氷結岩", count: 11 }
     ]
   },
   {
@@ -2404,7 +2404,7 @@ const data = [
     characters: ["ゼットン","レイキュバス","ババルウ"],
     gimmicks: [
       { name: "雪", count: 12 },
-      { name: "氷", count: 12 }
+      { name: "氷結岩", count: 12 }
     ]
   },
   {
@@ -2413,7 +2413,7 @@ const data = [
     characters: ["エースキラー"],
     gimmicks: [
       { name: "雪", count: 11 },
-      { name: "氷", count: 13 }
+      { name: "氷結岩", count: 13 }
     ]
   },
   {
@@ -2422,7 +2422,7 @@ const data = [
     characters: ["バードン","バルタン星人"],
     gimmicks: [
       { name: "砂利", count: 4 },
-      { name: "石化", count: 4 }
+      { name: "化石岩", count: 4 }
     ]
   },
   {
@@ -2431,7 +2431,7 @@ const data = [
     characters: ["ダダ","バードン","スラン星人"],
     gimmicks: [
       { name: "砂利", count: 5 },
-      { name: "石化", count: 5 }
+      { name: "化石岩", count: 5 }
     ]
   },
   {
@@ -2440,7 +2440,7 @@ const data = [
     characters: ["バードン","バルタン星人"],
     gimmicks: [
       { name: "砂利", count: 6 },
-      { name: "石化", count: 6 }
+      { name: "化石岩", count: 6 }
     ]
   },
   {
@@ -2449,7 +2449,7 @@ const data = [
     characters: ["ダダ","バルタン星人","バードン"],
     gimmicks: [
       { name: "砂利", count: 7 },
-      { name: "石化", count: 7 }
+      { name: "化石岩", count: 7 }
     ]
   },
   {
@@ -2458,7 +2458,7 @@ const data = [
     characters: ["モンスアーガー","ダダ","バードン","スラン星人"],
     gimmicks: [
       { name: "砂利", count: 8 },
-      { name: "石化", count: 8 }
+      { name: "化石岩", count: 8 }
     ]
   },
   {
@@ -2467,7 +2467,7 @@ const data = [
     characters: ["バードン","バルタン星人","スラン星人"],
     gimmicks: [
       { name: "砂利", count: 9 },
-      { name: "石化", count: 9 }
+      { name: "化石岩", count: 9 }
     ]
   },
   {
@@ -2476,7 +2476,7 @@ const data = [
     characters: ["バルタン星人","バードン","スラン星人"],
     gimmicks: [
       { name: "砂利", count: 10 },
-      { name: "石化", count: 10 }
+      { name: "化石岩", count: 10 }
     ]
   },
   {
@@ -2485,7 +2485,7 @@ const data = [
     characters: ["バードン","スラン星人","ダダ"],
     gimmicks: [
       { name: "砂利", count: 11 },
-      { name: "石化", count: 11 }
+      { name: "化石岩", count: 11 }
     ]
   },
   {
@@ -2494,7 +2494,7 @@ const data = [
     characters: ["バードン","バルタン星人","スラン星人"],
     gimmicks: [
       { name: "砂利", count: 12 },
-      { name: "石化", count: 12 }
+      { name: "化石岩", count: 12 }
     ]
   },
   {
@@ -2503,7 +2503,7 @@ const data = [
     characters: ["マグマ星人"],
     gimmicks: [
       { name: "砂利", count: 11 },
-      { name: "石化", count: 13 }
+      { name: "化石岩", count: 13 }
     ]
   },
   {
@@ -2511,8 +2511,8 @@ const data = [
     wave: 1,
     characters: ["ベムスター","ベロクロン"],
     gimmicks: [
-      { name: "砂", count: 4 },
-      { name: "石化", count: 4 }
+      { name: "砂岩", count: 4 },
+      { name: "化石岩", count: 4 }
     ]
   },
   {
@@ -2520,8 +2520,8 @@ const data = [
     wave: 2,
     characters: ["ベムスター","マグマ星人","ガゾート"],
     gimmicks: [
-      { name: "砂", count: 5 },
-      { name: "石化", count: 5 }
+      { name: "砂岩", count: 5 },
+      { name: "化石岩", count: 5 }
     ]
   },
   {
@@ -2529,8 +2529,8 @@ const data = [
     wave: 1,
     characters: ["ベムスター","ベロクロン"],
     gimmicks: [
-      { name: "砂", count: 6 },
-      { name: "石化", count: 6 }
+      { name: "砂岩", count: 6 },
+      { name: "化石岩", count: 6 }
     ]
   },
   {
@@ -2538,8 +2538,8 @@ const data = [
     wave: 2,
     characters: ["ベムスター","ベロクロン","マグマ星人"],
     gimmicks: [
-      { name: "砂", count: 7 },
-      { name: "石化", count: 7 }
+      { name: "砂岩", count: 7 },
+      { name: "化石岩", count: 7 }
     ]
   },
   {
@@ -2547,8 +2547,8 @@ const data = [
     wave: 2,
     characters: ["ベムスター","ベロクロン","マグマ星人","ガゾート"],
     gimmicks: [
-      { name: "砂", count: 8 },
-      { name: "石化", count: 8 }
+      { name: "砂岩", count: 8 },
+      { name: "化石岩", count: 8 }
     ]
   },
   {
@@ -2556,8 +2556,8 @@ const data = [
     wave: 1,
     characters: ["ガゾート","マグマ星人","ベロクロン"],
     gimmicks: [
-      { name: "砂", count: 9 },
-      { name: "石化", count: 9 }
+      { name: "砂岩", count: 9 },
+      { name: "化石岩", count: 9 }
     ]
   },
   {
@@ -2565,8 +2565,8 @@ const data = [
     wave: 2,
     characters: ["ベロクロン","マグマ星人","ガゾート"],
     gimmicks: [
-      { name: "砂", count: 10 },
-      { name: "石化", count: 10 }
+      { name: "砂岩", count: 10 },
+      { name: "化石岩", count: 10 }
     ]
   },
   {
@@ -2574,8 +2574,8 @@ const data = [
     wave: 2,
     characters: ["ベムスター","ベロクロン","マグマ星人"],
     gimmicks: [
-      { name: "砂", count: 11 },
-      { name: "石化", count: 11 }
+      { name: "砂岩", count: 11 },
+      { name: "化石岩", count: 11 }
     ]
   },
   {
@@ -2583,8 +2583,8 @@ const data = [
     wave: 1,
     characters: ["ガゾート","マグマ星人","ベロクロン"],
     gimmicks: [
-      { name: "砂", count: 12 },
-      { name: "石化", count: 12 }
+      { name: "砂岩", count: 12 },
+      { name: "化石岩", count: 12 }
     ]
   },
   {
@@ -2592,8 +2592,8 @@ const data = [
     wave: 1,
     characters: ["グランドキング"],
     gimmicks: [
-      { name: "砂", count: 11 },
-      { name: "石化", count: 13 }
+      { name: "砂岩", count: 11 },
+      { name: "化石岩", count: 13 }
     ]
   },
   {
@@ -2681,7 +2681,7 @@ const data = [
     wave: 1,
     characters: ["ババルウ","デマーガ"],
     gimmicks: [
-      { name: "巨大植物", count: 8 }
+      { name: "ラフレシア", count: 8 }
     ]
   },
   {
@@ -2689,7 +2689,7 @@ const data = [
     wave: 2,
     characters: ["タガヌラー","タガヌラー","ババルウ"],
     gimmicks: [
-      { name: "巨大植物", count: 10 }
+      { name: "ラフレシア", count: 10 }
     ]
   },
   {
@@ -2697,7 +2697,7 @@ const data = [
     wave: 1,
     characters: ["ババルウ","デマーガ"],
     gimmicks: [
-      { name: "巨大植物", count: 12 }
+      { name: "ラフレシア", count: 12 }
     ]
   },
   {
@@ -2705,7 +2705,7 @@ const data = [
     wave: 2,
     characters: ["タガヌラー","タガヌラー","ババルウ"],
     gimmicks: [
-      { name: "巨大植物", count: 14 }
+      { name: "ラフレシア", count: 14 }
     ]
   },
   {
@@ -2713,7 +2713,7 @@ const data = [
     wave: 2,
     characters: ["ババルウ","タガヌラー","ガンQ","モンスアーガー"],
     gimmicks: [
-      { name: "巨大植物", count: 16 }
+      { name: "ラフレシア", count: 16 }
     ]
   },
   {
@@ -2721,7 +2721,7 @@ const data = [
     wave: 1,
     characters: ["ババルウ","モンスアーガー","ガンQ"],
     gimmicks: [
-      { name: "巨大植物", count: 18 }
+      { name: "ラフレシア", count: 18 }
     ]
   },
   {
@@ -2729,7 +2729,7 @@ const data = [
     wave: 2,
     characters: ["モンスアーガー","タガヌラー","ババルウ"],
     gimmicks: [
-      { name: "巨大植物", count: 20 }
+      { name: "ラフレシア", count: 20 }
     ]
   },
   {
@@ -2737,7 +2737,7 @@ const data = [
     wave: 2,
     characters: ["タガヌラー","タガヌラー","ババルウ"],
     gimmicks: [
-      { name: "巨大植物", count: 22 }
+      { name: "ラフレシア", count: 22 }
     ]
   },
   {
@@ -2745,7 +2745,7 @@ const data = [
     wave: 1,
     characters: ["ババルウ","モンスアーガー","ガンQ"],
     gimmicks: [
-      { name: "巨大植物", count: 24 }
+      { name: "ラフレシア", count: 24 }
     ]
   },
   {
@@ -2753,7 +2753,7 @@ const data = [
     wave: 1,
     characters: ["ダークメフィスト"],
     gimmicks: [
-      { name: "巨大植物", count: 26 }
+      { name: "ラフレシア", count: 26 }
     ]
   },
   {
@@ -2921,7 +2921,7 @@ const data = [
     wave: 1,
     characters: ["ベムスター","デスドラゴ"],
     gimmicks: [
-      { name: "砂", count: 8 }
+      { name: "砂岩", count: 8 }
     ]
   },
   {
@@ -2929,7 +2929,7 @@ const data = [
     wave: 2,
     characters: ["ゴモラ","ベムスター","デスドラゴ"],
     gimmicks: [
-      { name: "砂", count: 10 }
+      { name: "砂岩", count: 10 }
     ]
   },
   {
@@ -2937,7 +2937,7 @@ const data = [
     wave: 1,
     characters: ["ベムスター","デスドラゴ"],
     gimmicks: [
-      { name: "砂", count: 12 }
+      { name: "砂岩", count: 12 }
     ]
   },
   {
@@ -2945,7 +2945,7 @@ const data = [
     wave: 2,
     characters: ["ベムスター","デスドラゴ","ゴモラ"],
     gimmicks: [
-      { name: "砂", count: 14 }
+      { name: "砂岩", count: 14 }
     ]
   },
   {
@@ -2953,7 +2953,7 @@ const data = [
     wave: 2,
     characters: ["ベムスター","ベムスター","デスドラゴ","デスドラゴ"],
     gimmicks: [
-      { name: "砂", count: 16 }
+      { name: "砂岩", count: 16 }
     ]
   },
   {
@@ -2961,7 +2961,7 @@ const data = [
     wave: 1,
     characters: ["ベムスター","ゴモラ","デスドラゴ"],
     gimmicks: [
-      { name: "砂", count: 18 }
+      { name: "砂岩", count: 18 }
     ]
   },
   {
@@ -2969,7 +2969,7 @@ const data = [
     wave: 2,
     characters: ["ゴモラ","ベムスター","デスドラゴ"],
     gimmicks: [
-      { name: "砂", count: 20 }
+      { name: "砂岩", count: 20 }
     ]
   },
   {
@@ -2977,7 +2977,7 @@ const data = [
     wave: 2,
     characters: ["ベムスター","デスドラゴ","ゴモラ"],
     gimmicks: [
-      { name: "砂", count: 22 }
+      { name: "砂岩", count: 22 }
     ]
   },
   {
@@ -2985,7 +2985,7 @@ const data = [
     wave: 1,
     characters: ["ベムスター","ゴモラ","デスドラゴ"],
     gimmicks: [
-      { name: "砂", count: 24 }
+      { name: "砂岩", count: 24 }
     ]
   },
   {
@@ -2993,7 +2993,7 @@ const data = [
     wave: 1,
     characters: ["ゼットン"],
     gimmicks: [
-      { name: "砂", count: 26 }
+      { name: "砂岩", count: 26 }
     ]
   },
   {
@@ -3091,7 +3091,7 @@ const data = [
     wave: 1,
     characters: ["ゴルザ","メルバ"],
     gimmicks: [
-      { name: "ツル", count: 4 },
+      { name: "木の根", count: 4 },
       { name: "丸太", count: 4 }
     ]
   },
@@ -3100,7 +3100,7 @@ const data = [
     wave: 2,
     characters: ["シャゴン","ゴルザ","メルバ"],
     gimmicks: [
-      { name: "ツル", count: 5 },
+      { name: "木の根", count: 5 },
       { name: "丸太", count: 5 }
     ]
   },
@@ -3109,7 +3109,7 @@ const data = [
     wave: 1,
     characters: ["ゴルザ","メルバ"],
     gimmicks: [
-      { name: "ツル", count: 6 },
+      { name: "木の根", count: 6 },
       { name: "丸太", count: 6 }
     ]
   },
@@ -3118,7 +3118,7 @@ const data = [
     wave: 2,
     characters: ["ダダ","シャゴン","メルバ"],
     gimmicks: [
-      { name: "ツル", count: 7 },
+      { name: "木の根", count: 7 },
       { name: "丸太", count: 7 }
     ]
   },
@@ -3127,7 +3127,7 @@ const data = [
     wave: 2,
     characters: ["ゴルザ","ダダ","シャゴン","メルバ"],
     gimmicks: [
-      { name: "ツル", count: 8 },
+      { name: "木の根", count: 8 },
       { name: "丸太", count: 8 }
     ]
   },
@@ -3136,7 +3136,7 @@ const data = [
     wave: 1,
     characters: ["ゴルザ","シャゴン","メルバ"],
     gimmicks: [
-      { name: "ツル", count: 9 },
+      { name: "木の根", count: 9 },
       { name: "丸太", count: 9 }
     ]
   },
@@ -3145,7 +3145,7 @@ const data = [
     wave: 2,
     characters: ["ダダ","ゴルザ","メルバ"],
     gimmicks: [
-      { name: "ツル", count: 10 },
+      { name: "木の根", count: 10 },
       { name: "丸太", count: 10 }
     ]
   },
@@ -3154,7 +3154,7 @@ const data = [
     wave: 2,
     characters: ["ゴルザ","メルバ","シャゴン"],
     gimmicks: [
-      { name: "ツル", count: 11 },
+      { name: "木の根", count: 11 },
       { name: "丸太", count: 11 }
     ]
   },
@@ -3163,7 +3163,7 @@ const data = [
     wave: 1,
     characters: ["ゴルザ","シャゴン","メルバ"],
     gimmicks: [
-      { name: "ツル", count: 12 },
+      { name: "木の根", count: 12 },
       { name: "丸太", count: 12 }
     ]
   },
@@ -3172,7 +3172,7 @@ const data = [
     wave: 1,
     characters: ["デストルドス"],
     gimmicks: [
-      { name: "ツル", count: 8 },
+      { name: "木の根", count: 8 },
       { name: "丸太", count: 16 }
     ]
   },
@@ -3181,7 +3181,7 @@ const data = [
     wave: 1,
     characters: ["ババルウ","エレキング"],
     gimmicks: [
-      { name: "氷", count: 4 },
+      { name: "氷結岩", count: 4 },
       { name: "氷塊", count: 4 }
     ]
   },
@@ -3190,7 +3190,7 @@ const data = [
     wave: 2,
     characters: ["ババルウ","レイキュバス","ゼットン"],
     gimmicks: [
-      { name: "氷", count: 5 },
+      { name: "氷結岩", count: 5 },
       { name: "氷塊", count: 5 }
     ]
   },
@@ -3199,7 +3199,7 @@ const data = [
     wave: 1,
     characters: ["ババルウ","エレキング"],
     gimmicks: [
-      { name: "氷", count: 6 },
+      { name: "氷結岩", count: 6 },
       { name: "氷塊", count: 6 }
     ]
   },
@@ -3208,7 +3208,7 @@ const data = [
     wave: 2,
     characters: ["ババルウ","エレキング","レイキュバス"],
     gimmicks: [
-      { name: "氷", count: 7 },
+      { name: "氷結岩", count: 7 },
       { name: "氷塊", count: 7 }
     ]
   },
@@ -3217,7 +3217,7 @@ const data = [
     wave: 2,
     characters: ["エレキング","レイキュバス","ゼットン","ババルウ"],
     gimmicks: [
-      { name: "氷", count: 8 },
+      { name: "氷結岩", count: 8 },
       { name: "氷塊", count: 8 }
     ]
   },
@@ -3226,7 +3226,7 @@ const data = [
     wave: 1,
     characters: ["ゼットン","レイキュバス","ババルウ"],
     gimmicks: [
-      { name: "氷", count: 9 },
+      { name: "氷結岩", count: 9 },
       { name: "氷塊", count: 9 }
     ]
   },
@@ -3235,7 +3235,7 @@ const data = [
     wave: 2,
     characters: ["エレキング","レイキュバス","ゼットン"],
     gimmicks: [
-      { name: "氷", count: 10 },
+      { name: "氷結岩", count: 10 },
       { name: "氷塊", count: 10 }
     ]
   },
@@ -3244,7 +3244,7 @@ const data = [
     wave: 2,
     characters: ["ババルウ","エレキング","レイキュバス"],
     gimmicks: [
-      { name: "氷", count: 11 },
+      { name: "氷結岩", count: 11 },
       { name: "氷塊", count: 11 }
     ]
   },
@@ -3253,7 +3253,7 @@ const data = [
     wave: 1,
     characters: ["ゼットン","レイキュバス","ババルウ"],
     gimmicks: [
-      { name: "氷", count: 12 },
+      { name: "氷結岩", count: 12 },
       { name: "氷塊", count: 12 }
     ]
   },
@@ -3262,7 +3262,7 @@ const data = [
     wave: 1,
     characters: ["タイラント"],
     gimmicks: [
-      { name: "氷", count: 8 },
+      { name: "氷結岩", count: 8 },
       { name: "氷塊", count: 16 }
     ]
   },
@@ -3271,8 +3271,8 @@ const data = [
     wave: 1,
     characters: ["バルタン星人","バードン"],
     gimmicks: [
-      { name: "石化", count: 4 },
-      { name: "岩石", count: 4 }
+      { name: "化石岩", count: 4 },
+      { name: "岩", count: 4 }
     ]
   },
   {
@@ -3280,8 +3280,8 @@ const data = [
     wave: 2,
     characters: ["ダダ","バードン","スラン星人"],
     gimmicks: [
-      { name: "石化", count: 5 },
-      { name: "岩石", count: 5 }
+      { name: "化石岩", count: 5 },
+      { name: "岩", count: 5 }
     ]
   },
   {
@@ -3289,8 +3289,8 @@ const data = [
     wave: 1,
     characters: ["バルタン星人","バードン"],
     gimmicks: [
-      { name: "石化", count: 6 },
-      { name: "岩石", count: 6 }
+      { name: "化石岩", count: 6 },
+      { name: "岩", count: 6 }
     ]
   },
   {
@@ -3298,8 +3298,8 @@ const data = [
     wave: 2,
     characters: ["ダダ","バルタン星人","バードン"],
     gimmicks: [
-      { name: "石化", count: 7 },
-      { name: "岩石", count: 7 }
+      { name: "化石岩", count: 7 },
+      { name: "岩", count: 7 }
     ]
   },
   {
@@ -3307,8 +3307,8 @@ const data = [
     wave: 2,
     characters: ["モンスアーガー","ダダ","スラン星人","バードン"],
     gimmicks: [
-      { name: "石化", count: 8 },
-      { name: "岩石", count: 8 }
+      { name: "化石岩", count: 8 },
+      { name: "岩", count: 8 }
     ]
   },
   {
@@ -3316,8 +3316,8 @@ const data = [
     wave: 1,
     characters: ["バードン","バルタン星人","スラン星人"],
     gimmicks: [
-      { name: "石化", count: 9 },
-      { name: "岩石", count: 9 }
+      { name: "化石岩", count: 9 },
+      { name: "岩", count: 9 }
     ]
   },
   {
@@ -3325,8 +3325,8 @@ const data = [
     wave: 2,
     characters: ["バルタン星人","バードン","スラン星人"],
     gimmicks: [
-      { name: "石化", count: 10 },
-      { name: "岩石", count: 10 }
+      { name: "化石岩", count: 10 },
+      { name: "岩", count: 10 }
     ]
   },
   {
@@ -3334,8 +3334,8 @@ const data = [
     wave: 2,
     characters: ["バードン","スラン星人","ダダ"],
     gimmicks: [
-      { name: "石化", count: 11 },
-      { name: "岩石", count: 11 }
+      { name: "化石岩", count: 11 },
+      { name: "岩", count: 11 }
     ]
   },
   {
@@ -3343,8 +3343,8 @@ const data = [
     wave: 1,
     characters: ["バードン","バルタン星人","スラン星人"],
     gimmicks: [
-      { name: "石化", count: 12 },
-      { name: "岩石", count: 12 }
+      { name: "化石岩", count: 12 },
+      { name: "岩", count: 12 }
     ]
   },
   {
@@ -3352,8 +3352,8 @@ const data = [
     wave: 1,
     characters: ["ギャラクトロン"],
     gimmicks: [
-      { name: "石化", count: 8 },
-      { name: "岩石", count: 16 }
+      { name: "化石岩", count: 8 },
+      { name: "岩", count: 16 }
     ]
   },
   {
@@ -3361,7 +3361,7 @@ const data = [
     wave: 1,
     characters: ["ベムスター","ベロクロン"],
     gimmicks: [
-      { name: "石化", count: 4 },
+      { name: "化石岩", count: 4 },
       { name: "神殿", count: 4 }
     ]
   },
@@ -3370,7 +3370,7 @@ const data = [
     wave: 2,
     characters: ["ベロクロン","マグマ星人","ガゾート"],
     gimmicks: [
-      { name: "石化", count: 5 },
+      { name: "化石岩", count: 5 },
       { name: "神殿", count: 5 }
     ]
   },
@@ -3379,7 +3379,7 @@ const data = [
     wave: 1,
     characters: ["ベムスター","ベロクロン"],
     gimmicks: [
-      { name: "石化", count: 6 },
+      { name: "化石岩", count: 6 },
       { name: "神殿", count: 6 }
     ]
   },
@@ -3388,7 +3388,7 @@ const data = [
     wave: 2,
     characters: ["ベムスター","ベロクロン","ガゾート"],
     gimmicks: [
-      { name: "石化", count: 7 },
+      { name: "化石岩", count: 7 },
       { name: "神殿", count: 7 }
     ]
   },
@@ -3397,7 +3397,7 @@ const data = [
     wave: 2,
     characters: ["ベムスター","ベロクロン","マグマ星人","ガゾート"],
     gimmicks: [
-      { name: "石化", count: 8 },
+      { name: "化石岩", count: 8 },
       { name: "神殿", count: 8 }
     ]
   },
@@ -3406,7 +3406,7 @@ const data = [
     wave: 1,
     characters: ["ガゾート","マグマ星人","ベロクロン"],
     gimmicks: [
-      { name: "石化", count: 9 },
+      { name: "化石岩", count: 9 },
       { name: "神殿", count: 9 }
     ]
   },
@@ -3415,7 +3415,7 @@ const data = [
     wave: 2,
     characters: ["ベムスター","マグマ星人","ガゾート"],
     gimmicks: [
-      { name: "石化", count: 10 },
+      { name: "化石岩", count: 10 },
       { name: "神殿", count: 10 }
     ]
   },
@@ -3424,7 +3424,7 @@ const data = [
     wave: 2,
     characters: ["ベムスター","ベロクロン","ガゾート"],
     gimmicks: [
-      { name: "石化", count: 11 },
+      { name: "化石岩", count: 11 },
       { name: "神殿", count: 11 }
     ]
   },
@@ -3433,7 +3433,7 @@ const data = [
     wave: 1,
     characters: ["ガゾート","マグマ星人","ベロクロン"],
     gimmicks: [
-      { name: "石化", count: 12 },
+      { name: "化石岩", count: 12 },
       { name: "神殿", count: 12 }
     ]
   },
@@ -3442,7 +3442,7 @@ const data = [
     wave: 1,
     characters: ["ホロボロス"],
     gimmicks: [
-      { name: "石化", count: 8 },
+      { name: "化石岩", count: 8 },
       { name: "神殿", count: 16 }
     ]
   },
@@ -3531,7 +3531,7 @@ const data = [
     wave: 1,
     characters: ["ババルウ","デマーガ"],
     gimmicks: [
-      { name: "ツル", count: 8 }
+      { name: "木の根", count: 8 }
     ]
   },
   {
@@ -3539,7 +3539,7 @@ const data = [
     wave: 2,
     characters: ["デマーガ","タガヌラー","ババルウ"],
     gimmicks: [
-      { name: "ツル", count: 10 }
+      { name: "木の根", count: 10 }
     ]
   },
   {
@@ -3547,7 +3547,7 @@ const data = [
     wave: 1,
     characters: ["ババルウ","デマーガ"],
     gimmicks: [
-      { name: "ツル", count: 12 }
+      { name: "木の根", count: 12 }
     ]
   },
   {
@@ -3555,7 +3555,7 @@ const data = [
     wave: 2,
     characters: ["タガヌラー","タガヌラー","ババルウ"],
     gimmicks: [
-      { name: "ツル", count: 14 }
+      { name: "木の根", count: 14 }
     ]
   },
   {
@@ -3563,7 +3563,7 @@ const data = [
     wave: 2,
     characters: ["ババルウ","タガヌラー","モンスアーガー","ガンQ"],
     gimmicks: [
-      { name: "ツル", count: 16 }
+      { name: "木の根", count: 16 }
     ]
   },
   {
@@ -3571,7 +3571,7 @@ const data = [
     wave: 1,
     characters: ["ババルウ","モンスアーガー","ガンQ"],
     gimmicks: [
-      { name: "ツル", count: 18 }
+      { name: "木の根", count: 18 }
     ]
   },
   {
@@ -3579,7 +3579,7 @@ const data = [
     wave: 2,
     characters: ["モンスアーガー","タガヌラー","ババルウ"],
     gimmicks: [
-      { name: "ツル", count: 20 }
+      { name: "木の根", count: 20 }
     ]
   },
   {
@@ -3587,7 +3587,7 @@ const data = [
     wave: 2,
     characters: ["タガヌラー","タガヌラー","ババルウ"],
     gimmicks: [
-      { name: "ツル", count: 22 }
+      { name: "木の根", count: 22 }
     ]
   },
   {
@@ -3595,7 +3595,7 @@ const data = [
     wave: 1,
     characters: ["ババルウ","モンスアーガー","ガンQ"],
     gimmicks: [
-      { name: "ツル", count: 24 }
+      { name: "木の根", count: 24 }
     ]
   },
   {
@@ -3603,7 +3603,7 @@ const data = [
     wave: 1,
     characters: ["巨大ヤプール"],
     gimmicks: [
-      { name: "ツル", count: 24 }
+      { name: "木の根", count: 24 }
     ]
   },
   {
@@ -3611,7 +3611,7 @@ const data = [
     wave: 1,
     characters: ["バルタン星人","エレキング"],
     gimmicks: [
-      { name: "氷", count: 8 }
+      { name: "氷結岩", count: 8 }
     ]
   },
   {
@@ -3619,7 +3619,7 @@ const data = [
     wave: 2,
     characters: ["エレキング","バルタン星人","ベロクロン"],
     gimmicks: [
-      { name: "氷", count: 10 }
+      { name: "氷結岩", count: 10 }
     ]
   },
   {
@@ -3627,7 +3627,7 @@ const data = [
     wave: 1,
     characters: ["バルタン星人","エレキング"],
     gimmicks: [
-      { name: "氷", count: 12 }
+      { name: "氷結岩", count: 12 }
     ]
   },
   {
@@ -3635,7 +3635,7 @@ const data = [
     wave: 2,
     characters: ["バルタン星人","ベロクロン","エレキング"],
     gimmicks: [
-      { name: "氷", count: 14 }
+      { name: "氷結岩", count: 14 }
     ]
   },
   {
@@ -3643,7 +3643,7 @@ const data = [
     wave: 2,
     characters: ["バルタン星人","ベロクロン","ガンQ","エレキング"],
     gimmicks: [
-      { name: "氷", count: 16 }
+      { name: "氷結岩", count: 16 }
     ]
   },
   {
@@ -3651,7 +3651,7 @@ const data = [
     wave: 1,
     characters: ["バルタン星人","ガンQ","エレキング"],
     gimmicks: [
-      { name: "氷", count: 18 }
+      { name: "氷結岩", count: 18 }
     ]
   },
   {
@@ -3659,7 +3659,7 @@ const data = [
     wave: 2,
     characters: ["エレキング","バルタン星人","ベロクロン"],
     gimmicks: [
-      { name: "氷", count: 20 }
+      { name: "氷結岩", count: 20 }
     ]
   },
   {
@@ -3667,7 +3667,7 @@ const data = [
     wave: 2,
     characters: ["バルタン星人","ベロクロン","エレキング"],
     gimmicks: [
-      { name: "氷", count: 22 }
+      { name: "氷結岩", count: 22 }
     ]
   },
   {
@@ -3675,7 +3675,7 @@ const data = [
     wave: 1,
     characters: ["バルタン星人","ガンQ","エレキング"],
     gimmicks: [
-      { name: "氷", count: 24 }
+      { name: "氷結岩", count: 24 }
     ]
   },
   {
@@ -3683,7 +3683,7 @@ const data = [
     wave: 1,
     characters: ["レイキュバス"],
     gimmicks: [
-      { name: "氷", count: 24 }
+      { name: "氷結岩", count: 24 }
     ]
   },
   {
@@ -3691,7 +3691,7 @@ const data = [
     wave: 1,
     characters: ["ダダ","スラン星人"],
     gimmicks: [
-      { name: "石化", count: 8 }
+      { name: "化石岩", count: 8 }
     ]
   },
   {
@@ -3699,7 +3699,7 @@ const data = [
     wave: 2,
     characters: ["スラン星人","デマーガ","ダダ"],
     gimmicks: [
-      { name: "石化", count: 10 }
+      { name: "化石岩", count: 10 }
     ]
   },
   {
@@ -3707,7 +3707,7 @@ const data = [
     wave: 1,
     characters: ["ダダ","スラン星人"],
     gimmicks: [
-      { name: "石化", count: 12 }
+      { name: "化石岩", count: 12 }
     ]
   },
   {
@@ -3715,7 +3715,7 @@ const data = [
     wave: 2,
     characters: ["デマーガ","ダダ","スラン星人"],
     gimmicks: [
-      { name: "石化", count: 14 }
+      { name: "化石岩", count: 14 }
     ]
   },
   {
@@ -3723,7 +3723,7 @@ const data = [
     wave: 2,
     characters: ["モンスアーガー","ダダ","デマーガ","スラン星人"],
     gimmicks: [
-      { name: "石化", count: 16 }
+      { name: "化石岩", count: 16 }
     ]
   },
   {
@@ -3731,7 +3731,7 @@ const data = [
     wave: 1,
     characters: ["スラン星人","ダダ","モンスアーガー"],
     gimmicks: [
-      { name: "石化", count: 18 }
+      { name: "化石岩", count: 18 }
     ]
   },
   {
@@ -3739,7 +3739,7 @@ const data = [
     wave: 2,
     characters: ["ダダ","ダダ","デマーガ"],
     gimmicks: [
-      { name: "石化", count: 20 }
+      { name: "化石岩", count: 20 }
     ]
   },
   {
@@ -3747,7 +3747,7 @@ const data = [
     wave: 2,
     characters: ["デマーガ","ダダ","モンスアーガー"],
     gimmicks: [
-      { name: "石化", count: 22 }
+      { name: "化石岩", count: 22 }
     ]
   },
   {
@@ -3755,7 +3755,7 @@ const data = [
     wave: 1,
     characters: ["スラン星人","ダダ","モンスアーガー"],
     gimmicks: [
-      { name: "石化", count: 24 }
+      { name: "化石岩", count: 24 }
     ]
   },
   {
@@ -3763,7 +3763,7 @@ const data = [
     wave: 1,
     characters: ["バードン"],
     gimmicks: [
-      { name: "石化", count: 24 }
+      { name: "化石岩", count: 24 }
     ]
   },
   {
@@ -3771,7 +3771,7 @@ const data = [
     wave: 1,
     characters: ["ベムスター","デスドラゴ"],
     gimmicks: [
-      { name: "石化", count: 8 }
+      { name: "化石岩", count: 8 }
     ]
   },
   {
@@ -3779,7 +3779,7 @@ const data = [
     wave: 2,
     characters: ["ゴモラ","ベムスター","デスドラゴ"],
     gimmicks: [
-      { name: "石化", count: 10 }
+      { name: "化石岩", count: 10 }
     ]
   },
   {
@@ -3787,7 +3787,7 @@ const data = [
     wave: 1,
     characters: ["ベムスター","デスドラゴ"],
     gimmicks: [
-      { name: "石化", count: 12 }
+      { name: "化石岩", count: 12 }
     ]
   },
   {
@@ -3795,7 +3795,7 @@ const data = [
     wave: 2,
     characters: ["ベムスター","デスドラゴ","ゴモラ"],
     gimmicks: [
-      { name: "石化", count: 14 }
+      { name: "化石岩", count: 14 }
     ]
   },
   {
@@ -3803,7 +3803,7 @@ const data = [
     wave: 2,
     characters: ["ベムスター","ベムスター","デスドラゴ","デスドラゴ"],
     gimmicks: [
-      { name: "石化", count: 16 }
+      { name: "化石岩", count: 16 }
     ]
   },
   {
@@ -3811,7 +3811,7 @@ const data = [
     wave: 1,
     characters: ["デスドラゴ","ベムスター","ゴモラ"],
     gimmicks: [
-      { name: "石化", count: 18 }
+      { name: "化石岩", count: 18 }
     ]
   },
   {
@@ -3819,7 +3819,7 @@ const data = [
     wave: 2,
     characters: ["デスドラゴ","ベムスター","ゴモラ"],
     gimmicks: [
-      { name: "石化", count: 20 }
+      { name: "化石岩", count: 20 }
     ]
   },
   {
@@ -3827,7 +3827,7 @@ const data = [
     wave: 2,
     characters: ["デスドラゴ","ベムスター","ゴモラ"],
     gimmicks: [
-      { name: "石化", count: 22 }
+      { name: "化石岩", count: 22 }
     ]
   },
   {
@@ -3835,7 +3835,7 @@ const data = [
     wave: 1,
     characters: ["デスドラゴ","ベムスター","ゴモラ"],
     gimmicks: [
-      { name: "石化", count: 24 }
+      { name: "化石岩", count: 24 }
     ]
   },
   {
@@ -3843,7 +3843,7 @@ const data = [
     wave: 1,
     characters: ["グランドキング"],
     gimmicks: [
-      { name: "石化", count: 24 }
+      { name: "化石岩", count: 24 }
     ]
   },
   {
@@ -3942,7 +3942,7 @@ const data = [
     characters: ["ゴルザ","メルバ"],
     gimmicks: [
       { name: "丸太", count: 4 },
-      { name: "巨大植物", count: 4 }
+      { name: "ラフレシア", count: 4 }
     ]
   },
   {
@@ -3951,7 +3951,7 @@ const data = [
     characters: ["ダダ","ゴルザ","メルバ"],
     gimmicks: [
       { name: "丸太", count: 5 },
-      { name: "巨大植物", count: 5 }
+      { name: "ラフレシア", count: 5 }
     ]
   },
   {
@@ -3960,7 +3960,7 @@ const data = [
     characters: ["ゴルザ","メルバ"],
     gimmicks: [
       { name: "丸太", count: 6 },
-      { name: "巨大植物", count: 6 }
+      { name: "ラフレシア", count: 6 }
     ]
   },
   {
@@ -3969,7 +3969,7 @@ const data = [
     characters: ["ダダ","シャゴン","メルバ"],
     gimmicks: [
       { name: "丸太", count: 7 },
-      { name: "巨大植物", count: 7 }
+      { name: "ラフレシア", count: 7 }
     ]
   },
   {
@@ -3978,7 +3978,7 @@ const data = [
     characters: ["ゴルザ","ダダ","メルバ","シャゴン"],
     gimmicks: [
       { name: "丸太", count: 8 },
-      { name: "巨大植物", count: 8 }
+      { name: "ラフレシア", count: 8 }
     ]
   },
   {
@@ -3987,7 +3987,7 @@ const data = [
     characters: ["シャゴン","メルバ","ゴルザ"],
     gimmicks: [
       { name: "丸太", count: 9 },
-      { name: "巨大植物", count: 9 }
+      { name: "ラフレシア", count: 9 }
     ]
   },
   {
@@ -3996,7 +3996,7 @@ const data = [
     characters: ["シャゴン","メルバ","ゴルザ"],
     gimmicks: [
       { name: "丸太", count: 10 },
-      { name: "巨大植物", count: 10 }
+      { name: "ラフレシア", count: 10 }
     ]
   },
   {
@@ -4005,7 +4005,7 @@ const data = [
     characters: ["メルバ","ゴルザ","ダダ"],
     gimmicks: [
       { name: "丸太", count: 11 },
-      { name: "巨大植物", count: 11 }
+      { name: "ラフレシア", count: 11 }
     ]
   },
   {
@@ -4014,7 +4014,7 @@ const data = [
     characters: ["シャゴン","メルバ","ゴルザ"],
     gimmicks: [
       { name: "丸太", count: 12 },
-      { name: "巨大植物", count: 12 }
+      { name: "ラフレシア", count: 12 }
     ]
   },
   {
@@ -4023,7 +4023,7 @@ const data = [
     characters: ["ニジカガチ"],
     gimmicks: [
       { name: "丸太", count: 18 },
-      { name: "巨大植物", count: 8 }
+      { name: "ラフレシア", count: 8 }
     ]
   },
   {
@@ -4121,7 +4121,7 @@ const data = [
     wave: 1,
     characters: ["バルタン星人","バードン"],
     gimmicks: [
-      { name: "岩石", count: 4 },
+      { name: "岩", count: 4 },
       { name: "砂利", count: 4 }
     ]
   },
@@ -4130,7 +4130,7 @@ const data = [
     wave: 2,
     characters: ["バルタン星人","バードン","スラン星人"],
     gimmicks: [
-      { name: "岩石", count: 5 },
+      { name: "岩", count: 5 },
       { name: "砂利", count: 5 }
     ]
   },
@@ -4139,7 +4139,7 @@ const data = [
     wave: 1,
     characters: ["バルタン星人","バードン"],
     gimmicks: [
-      { name: "岩石", count: 6 },
+      { name: "岩", count: 6 },
       { name: "砂利", count: 6 }
     ]
   },
@@ -4148,7 +4148,7 @@ const data = [
     wave: 2,
     characters: ["ダダ","バルタン星人","スラン星人"],
     gimmicks: [
-      { name: "岩石", count: 7 },
+      { name: "岩", count: 7 },
       { name: "砂利", count: 7 }
     ]
   },
@@ -4157,7 +4157,7 @@ const data = [
     wave: 2,
     characters: ["モンスアーガー","ダダ","スラン星人","バードン"],
     gimmicks: [
-      { name: "岩石", count: 8 },
+      { name: "岩", count: 8 },
       { name: "砂利", count: 8 }
     ]
   },
@@ -4166,7 +4166,7 @@ const data = [
     wave: 1,
     characters: ["バードン","バルタン星人","スラン星人"],
     gimmicks: [
-      { name: "岩石", count: 9 },
+      { name: "岩", count: 9 },
       { name: "砂利", count: 9 }
     ]
   },
@@ -4175,7 +4175,7 @@ const data = [
     wave: 2,
     characters: ["ダダ","バードン","スラン星人"],
     gimmicks: [
-      { name: "岩石", count: 10 },
+      { name: "岩", count: 10 },
       { name: "砂利", count: 10 }
     ]
   },
@@ -4184,7 +4184,7 @@ const data = [
     wave: 2,
     characters: ["バードン","スラン星人","バルタン星人"],
     gimmicks: [
-      { name: "岩石", count: 11 },
+      { name: "岩", count: 11 },
       { name: "砂利", count: 11 }
     ]
   },
@@ -4193,7 +4193,7 @@ const data = [
     wave: 1,
     characters: ["バードン","バルタン星人","スラン星人"],
     gimmicks: [
-      { name: "岩石", count: 12 },
+      { name: "岩", count: 12 },
       { name: "砂利", count: 12 }
     ]
   },
@@ -4202,7 +4202,7 @@ const data = [
     wave: 1,
     characters: ["マグマ星人"],
     gimmicks: [
-      { name: "岩石", count: 18 },
+      { name: "岩", count: 18 },
       { name: "砂利", count: 8 }
     ]
   },
@@ -4212,7 +4212,7 @@ const data = [
     characters: ["ベムスター","ベロクロン"],
     gimmicks: [
       { name: "神殿", count: 4 },
-      { name: "砂", count: 4 }
+      { name: "砂岩", count: 4 }
     ]
   },
   {
@@ -4221,7 +4221,7 @@ const data = [
     characters: ["ベロクロン","マグマ星人","ガゾート"],
     gimmicks: [
       { name: "神殿", count: 5 },
-      { name: "砂", count: 5 }
+      { name: "砂岩", count: 5 }
     ]
   },
   {
@@ -4230,7 +4230,7 @@ const data = [
     characters: ["ベムスター","ベロクロン"],
     gimmicks: [
       { name: "神殿", count: 6 },
-      { name: "砂", count: 6 }
+      { name: "砂岩", count: 6 }
     ]
   },
   {
@@ -4239,7 +4239,7 @@ const data = [
     characters: ["ベロクロン","ベムスター","ガゾート"],
     gimmicks: [
       { name: "神殿", count: 7 },
-      { name: "砂", count: 7 }
+      { name: "砂岩", count: 7 }
     ]
   },
   {
@@ -4248,7 +4248,7 @@ const data = [
     characters: ["ベムスター","ベロクロン","マグマ星人","ガゾート"],
     gimmicks: [
       { name: "神殿", count: 8 },
-      { name: "砂", count: 8 }
+      { name: "砂岩", count: 8 }
     ]
   },
   {
@@ -4257,7 +4257,7 @@ const data = [
     characters: ["ガゾート","マグマ星人","ベロクロン"],
     gimmicks: [
       { name: "神殿", count: 9 },
-      { name: "砂", count: 9 }
+      { name: "砂岩", count: 9 }
     ]
   },
   {
@@ -4266,7 +4266,7 @@ const data = [
     characters: ["ベムスター","マグマ星人","ガゾート"],
     gimmicks: [
       { name: "神殿", count: 10 },
-      { name: "砂", count: 10 }
+      { name: "砂岩", count: 10 }
     ]
   },
   {
@@ -4275,7 +4275,7 @@ const data = [
     characters: ["ベロクロン","ベムスター","ガゾート"],
     gimmicks: [
       { name: "神殿", count: 11 },
-      { name: "砂", count: 11 }
+      { name: "砂岩", count: 11 }
     ]
   },
   {
@@ -4284,7 +4284,7 @@ const data = [
     characters: ["ガゾート","マグマ星人","ベロクロン"],
     gimmicks: [
       { name: "神殿", count: 12 },
-      { name: "砂", count: 12 }
+      { name: "砂岩", count: 12 }
     ]
   },
   {
@@ -4293,7 +4293,7 @@ const data = [
     characters: ["ゼットン"],
     gimmicks: [
       { name: "神殿", count: 18 },
-      { name: "砂", count: 8 }
+      { name: "砂岩", count: 8 }
     ]
   },
   {
@@ -4391,8 +4391,8 @@ const data = [
     wave: 1,
     characters: ["ババルウ","デマーガ"],
     gimmicks: [
-      { name: "ツル", count: 4 },
-      { name: "巨大植物", count: 4 }
+      { name: "木の根", count: 4 },
+      { name: "ラフレシア", count: 4 }
     ]
   },
   {
@@ -4400,8 +4400,8 @@ const data = [
     wave: 2,
     characters: ["タガヌラー","タガヌラー","ババルウ"],
     gimmicks: [
-      { name: "ツル", count: 5 },
-      { name: "巨大植物", count: 5 }
+      { name: "木の根", count: 5 },
+      { name: "ラフレシア", count: 5 }
     ]
   },
   {
@@ -4409,8 +4409,8 @@ const data = [
     wave: 1,
     characters: ["ババルウ","デマーガ"],
     gimmicks: [
-      { name: "ツル", count: 6 },
-      { name: "巨大植物", count: 6 }
+      { name: "木の根", count: 6 },
+      { name: "ラフレシア", count: 6 }
     ]
   },
   {
@@ -4418,8 +4418,8 @@ const data = [
     wave: 2,
     characters: ["タガヌラー","ババルウ","デマーガ"],
     gimmicks: [
-      { name: "ツル", count: 7 },
-      { name: "巨大植物", count: 7 }
+      { name: "木の根", count: 7 },
+      { name: "ラフレシア", count: 7 }
     ]
   },
   {
@@ -4427,8 +4427,8 @@ const data = [
     wave: 2,
     characters: ["ババルウ","タガヌラー","ガンQ","モンスアーガー"],
     gimmicks: [
-      { name: "ツル", count: 8 },
-      { name: "巨大植物", count: 8 }
+      { name: "木の根", count: 8 },
+      { name: "ラフレシア", count: 8 }
     ]
   },
   {
@@ -4436,8 +4436,8 @@ const data = [
     wave: 1,
     characters: ["ババルウ","モンスアーガー","ガンQ"],
     gimmicks: [
-      { name: "ツル", count: 9 },
-      { name: "巨大植物", count: 9 }
+      { name: "木の根", count: 9 },
+      { name: "ラフレシア", count: 9 }
     ]
   },
   {
@@ -4445,8 +4445,8 @@ const data = [
     wave: 2,
     characters: ["モンスアーガー","タガヌラー","ババルウ"],
     gimmicks: [
-      { name: "ツル", count: 10 },
-      { name: "巨大植物", count: 10 }
+      { name: "木の根", count: 10 },
+      { name: "ラフレシア", count: 10 }
     ]
   },
   {
@@ -4454,8 +4454,8 @@ const data = [
     wave: 2,
     characters: ["タガヌラー","ババルウ","デマーガ"],
     gimmicks: [
-      { name: "ツル", count: 11 },
-      { name: "巨大植物", count: 11 }
+      { name: "木の根", count: 11 },
+      { name: "ラフレシア", count: 11 }
     ]
   },
   {
@@ -4463,8 +4463,8 @@ const data = [
     wave: 1,
     characters: ["ババルウ","モンスアーガー","ガンQ"],
     gimmicks: [
-      { name: "ツル", count: 12 },
-      { name: "巨大植物", count: 12 }
+      { name: "木の根", count: 12 },
+      { name: "ラフレシア", count: 12 }
     ]
   },
   {
@@ -4472,8 +4472,8 @@ const data = [
     wave: 1,
     characters: ["ダークメフィスト"],
     gimmicks: [
-      { name: "ツル", count: 16 },
-      { name: "巨大植物", count: 10 }
+      { name: "木の根", count: 16 },
+      { name: "ラフレシア", count: 10 }
     ]
   },
   {
@@ -4482,7 +4482,7 @@ const data = [
     characters: ["エレキング","ババルウ"],
     gimmicks: [
       { name: "雪", count: 4 },
-      { name: "氷", count: 4 }
+      { name: "氷結岩", count: 4 }
     ]
   },
   {
@@ -4491,7 +4491,7 @@ const data = [
     characters: ["ババルウ","レイキュバス","ゼットン"],
     gimmicks: [
       { name: "雪", count: 5 },
-      { name: "氷", count: 5 }
+      { name: "氷結岩", count: 5 }
     ]
   },
   {
@@ -4500,7 +4500,7 @@ const data = [
     characters: ["エレキング","ババルウ"],
     gimmicks: [
       { name: "雪", count: 6 },
-      { name: "氷", count: 6 }
+      { name: "氷結岩", count: 6 }
     ]
   },
   {
@@ -4509,7 +4509,7 @@ const data = [
     characters: ["ババルウ","エレキング","レイキュバス"],
     gimmicks: [
       { name: "雪", count: 7 },
-      { name: "氷", count: 7 }
+      { name: "氷結岩", count: 7 }
     ]
   },
   {
@@ -4518,7 +4518,7 @@ const data = [
     characters: ["エレキング","レイキュバス","ババルウ","ゼットン"],
     gimmicks: [
       { name: "雪", count: 8 },
-      { name: "氷", count: 8 }
+      { name: "氷結岩", count: 8 }
     ]
   },
   {
@@ -4527,7 +4527,7 @@ const data = [
     characters: ["ゼットン","レイキュバス","ババルウ"],
     gimmicks: [
       { name: "雪", count: 9 },
-      { name: "氷", count: 9 }
+      { name: "氷結岩", count: 9 }
     ]
   },
   {
@@ -4536,7 +4536,7 @@ const data = [
     characters: ["エレキング","レイキュバス","ゼットン"],
     gimmicks: [
       { name: "雪", count: 10 },
-      { name: "氷", count: 10 }
+      { name: "氷結岩", count: 10 }
     ]
   },
   {
@@ -4545,7 +4545,7 @@ const data = [
     characters: ["ババルウ","エレキング","レイキュバス"],
     gimmicks: [
       { name: "雪", count: 11 },
-      { name: "氷", count: 11 }
+      { name: "氷結岩", count: 11 }
     ]
   },
   {
@@ -4554,7 +4554,7 @@ const data = [
     characters: ["ゼットン","レイキュバス","ババルウ"],
     gimmicks: [
       { name: "雪", count: 12 },
-      { name: "氷", count: 12 }
+      { name: "氷結岩", count: 12 }
     ]
   },
   {
@@ -4563,7 +4563,7 @@ const data = [
     characters: ["ダークルギエル"],
     gimmicks: [
       { name: "雪", count: 12 },
-      { name: "氷", count: 14 }
+      { name: "氷結岩", count: 14 }
     ]
   },
   {
@@ -4571,7 +4571,7 @@ const data = [
     wave: 1,
     characters: ["ダダ","スラン星人"],
     gimmicks: [
-      { name: "石化", count: 4 },
+      { name: "化石岩", count: 4 },
       { name: "砂利", count: 4 }
     ]
   },
@@ -4580,7 +4580,7 @@ const data = [
     wave: 2,
     characters: ["スラン星人","ダダ","スラン星人"],
     gimmicks: [
-      { name: "石化", count: 5 },
+      { name: "化石岩", count: 5 },
       { name: "砂利", count: 5 }
     ]
   },
@@ -4589,7 +4589,7 @@ const data = [
     wave: 1,
     characters: ["ダダ","スラン星人"],
     gimmicks: [
-      { name: "石化", count: 6 },
+      { name: "化石岩", count: 6 },
       { name: "砂利", count: 6 }
     ]
   },
@@ -4598,7 +4598,7 @@ const data = [
     wave: 2,
     characters: ["ダダ","デマーガ","スラン星人"],
     gimmicks: [
-      { name: "石化", count: 7 },
+      { name: "化石岩", count: 7 },
       { name: "砂利", count: 7 }
     ]
   },
@@ -4607,7 +4607,7 @@ const data = [
     wave: 2,
     characters: ["モンスアーガー","ダダ","スラン星人","デマーガ"],
     gimmicks: [
-      { name: "石化", count: 8 },
+      { name: "化石岩", count: 8 },
       { name: "砂利", count: 8 }
     ]
   },
@@ -4616,7 +4616,7 @@ const data = [
     wave: 1,
     characters: ["モンスアーガー","スラン星人","ダダ"],
     gimmicks: [
-      { name: "石化", count: 9 },
+      { name: "化石岩", count: 9 },
       { name: "砂利", count: 9 }
     ]
   },
@@ -4625,7 +4625,7 @@ const data = [
     wave: 2,
     characters: ["ダダ","ダダ","デマーガ"],
     gimmicks: [
-      { name: "石化", count: 10 },
+      { name: "化石岩", count: 10 },
       { name: "砂利", count: 10 }
     ]
   },
@@ -4634,7 +4634,7 @@ const data = [
     wave: 2,
     characters: ["ダダ","デマーガ","モンスアーガー"],
     gimmicks: [
-      { name: "石化", count: 11 },
+      { name: "化石岩", count: 11 },
       { name: "砂利", count: 11 }
     ]
   },
@@ -4643,7 +4643,7 @@ const data = [
     wave: 1,
     characters: ["モンスアーガー","スラン星人","ダダ"],
     gimmicks: [
-      { name: "石化", count: 12 },
+      { name: "化石岩", count: 12 },
       { name: "砂利", count: 12 }
     ]
   },
@@ -4652,7 +4652,7 @@ const data = [
     wave: 1,
     characters: ["ギャラクトロン"],
     gimmicks: [
-      { name: "石化", count: 14 },
+      { name: "化石岩", count: 14 },
       { name: "砂利", count: 12 }
     ]
   },
@@ -4661,8 +4661,8 @@ const data = [
     wave: 1,
     characters: ["ベムスター","ベロクロン"],
     gimmicks: [
-      { name: "石化", count: 4 },
-      { name: "砂", count: 4 }
+      { name: "化石岩", count: 4 },
+      { name: "砂岩", count: 4 }
     ]
   },
   {
@@ -4670,8 +4670,8 @@ const data = [
     wave: 2,
     characters: ["ベムスター","マグマ星人","ガゾート"],
     gimmicks: [
-      { name: "石化", count: 5 },
-      { name: "砂", count: 5 }
+      { name: "化石岩", count: 5 },
+      { name: "砂岩", count: 5 }
     ]
   },
   {
@@ -4679,8 +4679,8 @@ const data = [
     wave: 1,
     characters: ["ベムスター","ベロクロン"],
     gimmicks: [
-      { name: "石化", count: 6 },
-      { name: "砂", count: 6 }
+      { name: "化石岩", count: 6 },
+      { name: "砂岩", count: 6 }
     ]
   },
   {
@@ -4688,8 +4688,8 @@ const data = [
     wave: 2,
     characters: ["ベムスター","ベロクロン","ガゾート"],
     gimmicks: [
-      { name: "石化", count: 7 },
-      { name: "砂", count: 7 }
+      { name: "化石岩", count: 7 },
+      { name: "砂岩", count: 7 }
     ]
   },
   {
@@ -4697,8 +4697,8 @@ const data = [
     wave: 2,
     characters: ["ベムスター","ベロクロン","マグマ星人","ガゾート"],
     gimmicks: [
-      { name: "石化", count: 8 },
-      { name: "砂", count: 8 }
+      { name: "化石岩", count: 8 },
+      { name: "砂岩", count: 8 }
     ]
   },
   {
@@ -4706,8 +4706,8 @@ const data = [
     wave: 1,
     characters: ["ガゾート","マグマ星人","ベロクロン"],
     gimmicks: [
-      { name: "石化", count: 9 },
-      { name: "砂", count: 9 }
+      { name: "化石岩", count: 9 },
+      { name: "砂岩", count: 9 }
     ]
   },
   {
@@ -4715,8 +4715,8 @@ const data = [
     wave: 2,
     characters: ["ベロクロン","マグマ星人","ガゾート"],
     gimmicks: [
-      { name: "石化", count: 10 },
-      { name: "砂", count: 10 }
+      { name: "化石岩", count: 10 },
+      { name: "砂岩", count: 10 }
     ]
   },
   {
@@ -4724,8 +4724,8 @@ const data = [
     wave: 2,
     characters: ["ベロクロン","ベムスター","ガゾート"],
     gimmicks: [
-      { name: "石化", count: 11 },
-      { name: "砂", count: 11 }
+      { name: "化石岩", count: 11 },
+      { name: "砂岩", count: 11 }
     ]
   },
   {
@@ -4733,8 +4733,8 @@ const data = [
     wave: 1,
     characters: ["ガゾート","マグマ星人","ベロクロン"],
     gimmicks: [
-      { name: "石化", count: 12 },
-      { name: "砂", count: 12 }
+      { name: "化石岩", count: 12 },
+      { name: "砂岩", count: 12 }
     ]
   },
   {
@@ -4742,8 +4742,8 @@ const data = [
     wave: 1,
     characters: ["グランドキング"],
     gimmicks: [
-      { name: "石化", count: 14 },
-      { name: "砂", count: 12 }
+      { name: "化石岩", count: 14 },
+      { name: "砂岩", count: 12 }
     ]
   },
   {
@@ -4752,7 +4752,7 @@ const data = [
     characters: ["ギャラクトロン","ガラオン"],
     gimmicks: [
       { name: "木箱", count: 4 },
-      { name: "土ブーメラン", count: 4 }
+      { name: "埋め込みブーメラン", count: 4 }
     ]
   },
   {
@@ -4761,7 +4761,7 @@ const data = [
     characters: ["ギャラクトロン","スキューラ","バジリス"],
     gimmicks: [
       { name: "木箱", count: 5 },
-      { name: "土ブーメラン", count: 4 }
+      { name: "埋め込みブーメラン", count: 4 }
     ]
   },
   {
@@ -4788,7 +4788,7 @@ const data = [
     characters: ["ギャラクトロン","ガラオン","バジリス","スキューラ"],
     gimmicks: [
       { name: "木箱", count: 8 },
-      { name: "土ブーメラン", count: 4 }
+      { name: "埋め込みブーメラン", count: 4 }
     ]
   },
   {
@@ -4815,7 +4815,7 @@ const data = [
     characters: ["ギャラクトロン","ガラオン","バジリス"],
     gimmicks: [
       { name: "木箱", count: 11 },
-      { name: "土ブーメラン", count: 4 }
+      { name: "埋め込みブーメラン", count: 4 }
     ]
   },
   {
@@ -4834,7 +4834,7 @@ const data = [
     gimmicks: [
       { name: "木箱", count: 12 },
       { name: "ガラス", count: 8 },
-      { name: "土ブーメラン", count: 4 }
+      { name: "埋め込みブーメラン", count: 4 }
     ]
   },
   {
@@ -4842,8 +4842,8 @@ const data = [
     wave: 1,
     characters: ["ゼットン","ゴモラ"],
     gimmicks: [
-      { name: "巨大植物", count: 4 },
-      { name: "土ロケット", count: 4 }
+      { name: "ラフレシア", count: 4 },
+      { name: "埋め込みロケット", count: 4 }
     ]
   },
   {
@@ -4851,8 +4851,8 @@ const data = [
     wave: 2,
     characters: ["バードン","ブルトン","バルタン星人"],
     gimmicks: [
-      { name: "巨大植物", count: 5 },
-      { name: "土ロケット", count: 4 }
+      { name: "ラフレシア", count: 5 },
+      { name: "埋め込みロケット", count: 4 }
     ]
   },
   {
@@ -4860,8 +4860,8 @@ const data = [
     wave: 1,
     characters: ["ゼットン","ゴモラ"],
     gimmicks: [
-      { name: "巨大植物", count: 6 },
-      { name: "ツル", count: 6 }
+      { name: "ラフレシア", count: 6 },
+      { name: "木の根", count: 6 }
     ]
   },
   {
@@ -4869,8 +4869,8 @@ const data = [
     wave: 2,
     characters: ["ブルトン","ゴモラ","バードン"],
     gimmicks: [
-      { name: "巨大植物", count: 7 },
-      { name: "ツル", count: 7 }
+      { name: "ラフレシア", count: 7 },
+      { name: "木の根", count: 7 }
     ]
   },
   {
@@ -4878,8 +4878,8 @@ const data = [
     wave: 2,
     characters: ["ブルトン","ベムスター","ゴモラ","ゼットン"],
     gimmicks: [
-      { name: "巨大植物", count: 8 },
-      { name: "土ロケット", count: 4 }
+      { name: "ラフレシア", count: 8 },
+      { name: "埋め込みロケット", count: 4 }
     ]
   },
   {
@@ -4887,8 +4887,8 @@ const data = [
     wave: 1,
     characters: ["ブルトン","バードン","ゴモラ"],
     gimmicks: [
-      { name: "巨大植物", count: 9 },
-      { name: "ツル", count: 9 }
+      { name: "ラフレシア", count: 9 },
+      { name: "木の根", count: 9 }
     ]
   },
   {
@@ -4896,8 +4896,8 @@ const data = [
     wave: 2,
     characters: ["バードン","ブルトン","バルタン星人"],
     gimmicks: [
-      { name: "巨大植物", count: 10 },
-      { name: "ツル", count: 10 }
+      { name: "ラフレシア", count: 10 },
+      { name: "木の根", count: 10 }
     ]
   },
   {
@@ -4905,8 +4905,8 @@ const data = [
     wave: 2,
     characters: ["ブルトン","ゴモラ","バードン"],
     gimmicks: [
-      { name: "巨大植物", count: 11 },
-      { name: "土ロケット", count: 4 }
+      { name: "ラフレシア", count: 11 },
+      { name: "埋め込みロケット", count: 4 }
     ]
   },
   {
@@ -4914,8 +4914,8 @@ const data = [
     wave: 1,
     characters: ["ブルトン","バードン","ゴモラ"],
     gimmicks: [
-      { name: "巨大植物", count: 12 },
-      { name: "ツル", count: 12 }
+      { name: "ラフレシア", count: 12 },
+      { name: "木の根", count: 12 }
     ]
   },
   {
@@ -4923,9 +4923,9 @@ const data = [
     wave: 1,
     characters: ["巨大ヤプール"],
     gimmicks: [
-      { name: "巨大植物", count: 12 },
-      { name: "ツル", count: 8 },
-      { name: "土ロケット", count: 4 }
+      { name: "ラフレシア", count: 12 },
+      { name: "木の根", count: 8 },
+      { name: "埋め込みロケット", count: 4 }
     ]
   },
   {
@@ -4934,7 +4934,7 @@ const data = [
     characters: ["レイキュバス","ダダ"],
     gimmicks: [
       { name: "雪", count: 4 },
-      { name: "土ロケット", count: 4 }
+      { name: "埋め込みロケット", count: 4 }
     ]
   },
   {
@@ -4943,7 +4943,7 @@ const data = [
     characters: ["ギャラクトロン","スラン星人","ババルウ"],
     gimmicks: [
       { name: "雪", count: 5 },
-      { name: "土ロケット", count: 4 }
+      { name: "埋め込みロケット", count: 4 }
     ]
   },
   {
@@ -4952,7 +4952,7 @@ const data = [
     characters: ["レイキュバス","ダダ"],
     gimmicks: [
       { name: "雪", count: 6 },
-      { name: "氷", count: 6 }
+      { name: "氷結岩", count: 6 }
     ]
   },
   {
@@ -4961,7 +4961,7 @@ const data = [
     characters: ["スラン星人","ババルウ","ギャラクトロン"],
     gimmicks: [
       { name: "雪", count: 7 },
-      { name: "氷", count: 7 }
+      { name: "氷結岩", count: 7 }
     ]
   },
   {
@@ -4970,7 +4970,7 @@ const data = [
     characters: ["バルタン星人","ベロクロン","ダダ","エレキング"],
     gimmicks: [
       { name: "雪", count: 8 },
-      { name: "土ロケット", count: 4 }
+      { name: "埋め込みロケット", count: 4 }
     ]
   },
   {
@@ -4979,7 +4979,7 @@ const data = [
     characters: ["スラン星人","ギャラクトロン","ガンQ"],
     gimmicks: [
       { name: "雪", count: 9 },
-      { name: "氷", count: 9 }
+      { name: "氷結岩", count: 9 }
     ]
   },
   {
@@ -4988,7 +4988,7 @@ const data = [
     characters: ["ギャラクトロン","スラン星人","ババルウ"],
     gimmicks: [
       { name: "雪", count: 10 },
-      { name: "氷", count: 10 }
+      { name: "氷結岩", count: 10 }
     ]
   },
   {
@@ -4997,7 +4997,7 @@ const data = [
     characters: ["スラン星人","ババルウ","ギャラクトロン"],
     gimmicks: [
       { name: "雪", count: 11 },
-      { name: "土ロケット", count: 4 }
+      { name: "埋め込みロケット", count: 4 }
     ]
   },
   {
@@ -5006,7 +5006,7 @@ const data = [
     characters: ["スラン星人","ギャラクトロン","ガンQ"],
     gimmicks: [
       { name: "雪", count: 12 },
-      { name: "氷", count: 12 }
+      { name: "氷結岩", count: 12 }
     ]
   },
   {
@@ -5015,8 +5015,8 @@ const data = [
     characters: ["タイラント"],
     gimmicks: [
       { name: "雪", count: 12 },
-      { name: "氷", count: 8 },
-      { name: "土ロケット", count: 4 }
+      { name: "氷結岩", count: 8 },
+      { name: "埋め込みロケット", count: 4 }
     ]
   },
   {
@@ -5025,7 +5025,7 @@ const data = [
     characters: ["パンドン","ガンQ"],
     gimmicks: [
       { name: "砂利", count: 4 },
-      { name: "土ナパーム", count: 4 }
+      { name: "埋め込みナパーム", count: 4 }
     ]
   },
   {
@@ -5034,7 +5034,7 @@ const data = [
     characters: ["パンドン","スラン星人","マグマ星人"],
     gimmicks: [
       { name: "砂利", count: 5 },
-      { name: "土ナパーム", count: 4 }
+      { name: "埋め込みナパーム", count: 4 }
     ]
   },
   {
@@ -5043,7 +5043,7 @@ const data = [
     characters: ["パンドン","ガンQ"],
     gimmicks: [
       { name: "砂利", count: 6 },
-      { name: "石化", count: 6 }
+      { name: "化石岩", count: 6 }
     ]
   },
   {
@@ -5052,7 +5052,7 @@ const data = [
     characters: ["スラン星人","マグマ星人","パンドン"],
     gimmicks: [
       { name: "砂利", count: 7 },
-      { name: "石化", count: 7 }
+      { name: "化石岩", count: 7 }
     ]
   },
   {
@@ -5061,7 +5061,7 @@ const data = [
     characters: ["デマーガ","バルタン星人","ゴルザ","メルバ"],
     gimmicks: [
       { name: "砂利", count: 8 },
-      { name: "土ナパーム", count: 4 }
+      { name: "埋め込みナパーム", count: 4 }
     ]
   },
   {
@@ -5070,7 +5070,7 @@ const data = [
     characters: ["ゴルザ","メルバ","パンドン"],
     gimmicks: [
       { name: "砂利", count: 9 },
-      { name: "石化", count: 9 }
+      { name: "化石岩", count: 9 }
     ]
   },
   {
@@ -5079,7 +5079,7 @@ const data = [
     characters: ["パンドン","スラン星人","マグマ星人"],
     gimmicks: [
       { name: "砂利", count: 10 },
-      { name: "石化", count: 10 }
+      { name: "化石岩", count: 10 }
     ]
   },
   {
@@ -5088,7 +5088,7 @@ const data = [
     characters: ["スラン星人","マグマ星人","パンドン"],
     gimmicks: [
       { name: "砂利", count: 11 },
-      { name: "土ナパーム", count: 4 }
+      { name: "埋め込みナパーム", count: 4 }
     ]
   },
   {
@@ -5097,7 +5097,7 @@ const data = [
     characters: ["ゴルザ","メルバ","パンドン"],
     gimmicks: [
       { name: "砂利", count: 12 },
-      { name: "石化", count: 12 }
+      { name: "化石岩", count: 12 }
     ]
   },
   {
@@ -5106,8 +5106,8 @@ const data = [
     characters: ["バードン"],
     gimmicks: [
       { name: "砂利", count: 12 },
-      { name: "石化", count: 8 },
-      { name: "土ナパーム", count: 4 }
+      { name: "化石岩", count: 8 },
+      { name: "埋め込みナパーム", count: 4 }
     ]
   },
   {
@@ -5115,8 +5115,8 @@ const data = [
     wave: 1,
     characters: ["デスドラゴ","ホロボロス"],
     gimmicks: [
-      { name: "砂", count: 4 },
-      { name: "土サークル", count: 1 }
+      { name: "砂岩", count: 4 },
+      { name: "埋め込みサークル", count: 1 }
     ]
   },
   {
@@ -5124,8 +5124,8 @@ const data = [
     wave: 2,
     characters: ["ベムスター","レッドキング","パンドン"],
     gimmicks: [
-      { name: "砂", count: 5 },
-      { name: "土サークル", count: 1 }
+      { name: "砂岩", count: 5 },
+      { name: "埋め込みサークル", count: 1 }
     ]
   },
   {
@@ -5133,8 +5133,8 @@ const data = [
     wave: 1,
     characters: ["デスドラゴ","ホロボロス"],
     gimmicks: [
-      { name: "砂", count: 6 },
-      { name: "石化", count: 6 }
+      { name: "砂岩", count: 6 },
+      { name: "化石岩", count: 6 }
     ]
   },
   {
@@ -5142,8 +5142,8 @@ const data = [
     wave: 2,
     characters: ["ベムスター","レッドキング","パンドン"],
     gimmicks: [
-      { name: "砂", count: 7 },
-      { name: "石化", count: 7 }
+      { name: "砂岩", count: 7 },
+      { name: "化石岩", count: 7 }
     ]
   },
   {
@@ -5151,8 +5151,8 @@ const data = [
     wave: 2,
     characters: ["レッドキング","ベムスター","デスドラゴ","ホロボロス"],
     gimmicks: [
-      { name: "砂", count: 8 },
-      { name: "土サークル", count: 1 }
+      { name: "砂岩", count: 8 },
+      { name: "埋め込みサークル", count: 1 }
     ]
   },
   {
@@ -5160,8 +5160,8 @@ const data = [
     wave: 1,
     characters: ["パンドン","レッドキング","デスドラゴ"],
     gimmicks: [
-      { name: "砂", count: 9 },
-      { name: "石化", count: 9 }
+      { name: "砂岩", count: 9 },
+      { name: "化石岩", count: 9 }
     ]
   },
   {
@@ -5169,8 +5169,8 @@ const data = [
     wave: 2,
     characters: ["ベムスター","レッドキング","パンドン"],
     gimmicks: [
-      { name: "砂", count: 10 },
-      { name: "石化", count: 10 }
+      { name: "砂岩", count: 10 },
+      { name: "化石岩", count: 10 }
     ]
   },
   {
@@ -5178,8 +5178,8 @@ const data = [
     wave: 2,
     characters: ["ベムスター","レッドキング","パンドン"],
     gimmicks: [
-      { name: "砂", count: 11 },
-      { name: "土サークル", count: 1 }
+      { name: "砂岩", count: 11 },
+      { name: "埋め込みサークル", count: 1 }
     ]
   },
   {
@@ -5187,8 +5187,8 @@ const data = [
     wave: 1,
     characters: ["パンドン","レッドキング","デスドラゴ"],
     gimmicks: [
-      { name: "砂", count: 12 },
-      { name: "石化", count: 12 }
+      { name: "砂岩", count: 12 },
+      { name: "化石岩", count: 12 }
     ]
   },
   {
@@ -5196,9 +5196,9 @@ const data = [
     wave: 1,
     characters: ["パンドン"],
     gimmicks: [
-      { name: "砂", count: 12 },
-      { name: "石化", count: 11 },
-      { name: "土サークル", count: 1 }
+      { name: "砂岩", count: 12 },
+      { name: "化石岩", count: 11 },
+      { name: "埋め込みサークル", count: 1 }
     ]
   },
   {
@@ -5207,7 +5207,7 @@ const data = [
     characters: ["バロッサ星人","モンスアーガー"],
     gimmicks: [
       { name: "木箱", count: 4 },
-      { name: "土ブーメラン", count: 4 }
+      { name: "埋め込みブーメラン", count: 4 }
     ]
   },
   {
@@ -5216,7 +5216,7 @@ const data = [
     characters: ["ゾヴァラス","デマーガ","ゴモラ"],
     gimmicks: [
       { name: "木箱", count: 5 },
-      { name: "土ブーメラン", count: 5 }
+      { name: "埋め込みブーメラン", count: 5 }
     ]
   },
   {
@@ -5288,8 +5288,8 @@ const data = [
     wave: 1,
     characters: ["シャゴン","ダダ"],
     gimmicks: [
-      { name: "巨大植物", count: 4 },
-      { name: "土ロケット", count: 4 }
+      { name: "ラフレシア", count: 4 },
+      { name: "埋め込みロケット", count: 4 }
     ]
   },
   {
@@ -5297,8 +5297,8 @@ const data = [
     wave: 2,
     characters: ["ゲネガーグ","ババルウ","ホロボロス"],
     gimmicks: [
-      { name: "巨大植物", count: 5 },
-      { name: "土ロケット", count: 5 }
+      { name: "ラフレシア", count: 5 },
+      { name: "埋め込みロケット", count: 5 }
     ]
   },
   {
@@ -5306,7 +5306,7 @@ const data = [
     wave: 1,
     characters: ["ブルトン","ババルウ"],
     gimmicks: [
-      { name: "巨大植物", count: 12 }
+      { name: "ラフレシア", count: 12 }
     ]
   },
   {
@@ -5314,7 +5314,7 @@ const data = [
     wave: 2,
     characters: ["ババルウ","ホロボロス","シャゴン"],
     gimmicks: [
-      { name: "巨大植物", count: 14 }
+      { name: "ラフレシア", count: 14 }
     ]
   },
   {
@@ -5322,7 +5322,7 @@ const data = [
     wave: 2,
     characters: ["シャゴン","ダダ","ババルウ","ゲネガーグ"],
     gimmicks: [
-      { name: "巨大植物", count: 16 }
+      { name: "ラフレシア", count: 16 }
     ]
   },
   {
@@ -5330,7 +5330,7 @@ const data = [
     wave: 1,
     characters: ["ホロボロス","ババルウ","ゲネガーグ"],
     gimmicks: [
-      { name: "巨大植物", count: 18 }
+      { name: "ラフレシア", count: 18 }
     ]
   },
   {
@@ -5338,7 +5338,7 @@ const data = [
     wave: 2,
     characters: ["ブルトン","ホロボロス","ダダ"],
     gimmicks: [
-      { name: "巨大植物", count: 20 }
+      { name: "ラフレシア", count: 20 }
     ]
   },
   {
@@ -5346,7 +5346,7 @@ const data = [
     wave: 2,
     characters: ["シャゴン","ババルウ","ダダ"],
     gimmicks: [
-      { name: "巨大植物", count: 22 }
+      { name: "ラフレシア", count: 22 }
     ]
   },
   {
@@ -5354,7 +5354,7 @@ const data = [
     wave: 1,
     characters: ["ブルトン","ゲネガーグ","ババルウ"],
     gimmicks: [
-      { name: "巨大植物", count: 24 }
+      { name: "ラフレシア", count: 24 }
     ]
   },
   {
@@ -5362,7 +5362,7 @@ const data = [
     wave: 1,
     characters: ["デストルドス"],
     gimmicks: [
-      { name: "巨大植物", count: 24 }
+      { name: "ラフレシア", count: 24 }
     ]
   },
   {
@@ -5371,7 +5371,7 @@ const data = [
     characters: ["ギャラクトロン","ダークロプスゼロ"],
     gimmicks: [
       { name: "雪", count: 4 },
-      { name: "土ロケット", count: 4 }
+      { name: "埋め込みロケット", count: 4 }
     ]
   },
   {
@@ -5380,7 +5380,7 @@ const data = [
     characters: ["ゲネガーグ","エレキング","ギャラクトロン"],
     gimmicks: [
       { name: "雪", count: 5 },
-      { name: "土ロケット", count: 5 }
+      { name: "埋め込みロケット", count: 5 }
     ]
   },
   {
@@ -5453,7 +5453,7 @@ const data = [
     characters: ["バルタン星人","スラン星人"],
     gimmicks: [
       { name: "砂利", count: 4 },
-      { name: "土ナパーム", count: 4 }
+      { name: "埋め込みナパーム", count: 4 }
     ]
   },
   {
@@ -5462,7 +5462,7 @@ const data = [
     characters: ["メフィラス星人","パンドン","バードン"],
     gimmicks: [
       { name: "砂利", count: 5 },
-      { name: "土ナパーム", count: 5 }
+      { name: "埋め込みナパーム", count: 5 }
     ]
   },
   {
@@ -5534,8 +5534,8 @@ const data = [
     wave: 1,
     characters: ["マグマ星人","デスドラゴ"],
     gimmicks: [
-      { name: "砂", count: 4 },
-      { name: "土サークル", count: 4 }
+      { name: "砂岩", count: 4 },
+      { name: "埋め込みサークル", count: 4 }
     ]
   },
   {
@@ -5543,8 +5543,8 @@ const data = [
     wave: 2,
     characters: ["レッドキング","ゼットン","ガゾート"],
     gimmicks: [
-      { name: "砂", count: 5 },
-      { name: "土サークル", count: 5 }
+      { name: "砂岩", count: 5 },
+      { name: "埋め込みサークル", count: 5 }
     ]
   },
   {
@@ -5552,7 +5552,7 @@ const data = [
     wave: 1,
     characters: ["エルドギメラ","メフィラス星人"],
     gimmicks: [
-      { name: "砂", count: 12 }
+      { name: "砂岩", count: 12 }
     ]
   },
   {
@@ -5560,7 +5560,7 @@ const data = [
     wave: 2,
     characters: ["マグマ星人","レッドキング","デスドラゴ"],
     gimmicks: [
-      { name: "砂", count: 14 }
+      { name: "砂岩", count: 14 }
     ]
   },
   {
@@ -5568,7 +5568,7 @@ const data = [
     wave: 2,
     characters: ["メフィラス星人","ベロクロン","エルドギメラ","ゼットン"],
     gimmicks: [
-      { name: "砂", count: 16 }
+      { name: "砂岩", count: 16 }
     ]
   },
   {
@@ -5576,7 +5576,7 @@ const data = [
     wave: 1,
     characters: ["メフィラス星人","ゼットン","レッドキング"],
     gimmicks: [
-      { name: "砂", count: 18 }
+      { name: "砂岩", count: 18 }
     ]
   },
   {
@@ -5584,7 +5584,7 @@ const data = [
     wave: 2,
     characters: ["メフィラス星人","ゼットン","レッドキング"],
     gimmicks: [
-      { name: "砂", count: 20 }
+      { name: "砂岩", count: 20 }
     ]
   },
   {
@@ -5592,7 +5592,7 @@ const data = [
     wave: 2,
     characters: ["メフィラス星人","ゾヴァラス","エルドギメラ"],
     gimmicks: [
-      { name: "砂", count: 22 }
+      { name: "砂岩", count: 22 }
     ]
   },
   {
@@ -5600,7 +5600,7 @@ const data = [
     wave: 1,
     characters: ["エルドギメラ","メフィラス星人","ゼットン"],
     gimmicks: [
-      { name: "砂", count: 24 }
+      { name: "砂岩", count: 24 }
     ]
   },
   {
@@ -5608,7 +5608,7 @@ const data = [
     wave: 1,
     characters: ["ゾメラ"],
     gimmicks: [
-      { name: "砂", count: 24 }
+      { name: "砂岩", count: 24 }
     ]
   },
   {
@@ -5617,7 +5617,7 @@ const data = [
     characters: ["ゾヴァラス","キリエロイド"],
     gimmicks: [
       { name: "銅板", count: 4 },
-      { name: "土ブーメラン", count: 4 }
+      { name: "埋め込みブーメラン", count: 4 }
     ]
   },
   {
@@ -5626,7 +5626,7 @@ const data = [
     characters: ["ノーバ","グドン","バロッサ星人"],
     gimmicks: [
       { name: "銅板", count: 5 },
-      { name: "土ブーメラン", count: 5 }
+      { name: "埋め込みブーメラン", count: 5 }
     ]
   },
   {
@@ -5699,7 +5699,7 @@ const data = [
     characters: ["ゲネガーグ","ゲバルガ"],
     gimmicks: [
       { name: "丸太", count: 4 },
-      { name: "土ロケット", count: 4 }
+      { name: "埋め込みロケット", count: 4 }
     ]
   },
   {
@@ -5708,7 +5708,7 @@ const data = [
     characters: ["タガヌラー","メフィラス星人","ブルトン"],
     gimmicks: [
       { name: "丸太", count: 5 },
-      { name: "土ロケット", count: 5 }
+      { name: "埋め込みロケット", count: 5 }
     ]
   },
   {
@@ -5781,7 +5781,7 @@ const data = [
     characters: ["ゼットン","ゾヴァラス"],
     gimmicks: [
       { name: "氷塊", count: 4 },
-      { name: "土ロケット", count: 4 }
+      { name: "埋め込みロケット", count: 4 }
     ]
   },
   {
@@ -5790,7 +5790,7 @@ const data = [
     characters: ["ゲバルガ","エレキング","メフィラス星人"],
     gimmicks: [
       { name: "氷塊", count: 5 },
-      { name: "土ロケット", count: 5 }
+      { name: "埋め込みロケット", count: 5 }
     ]
   },
   {
@@ -5862,8 +5862,8 @@ const data = [
     wave: 1,
     characters: ["ディゲロス","マグマ星人"],
     gimmicks: [
-      { name: "岩石", count: 4 },
-      { name: "土ナパーム", count: 4 }
+      { name: "岩", count: 4 },
+      { name: "埋め込みナパーム", count: 4 }
     ]
   },
   {
@@ -5871,8 +5871,8 @@ const data = [
     wave: 2,
     characters: ["ゲネガーグ","ゴルザ","メルバ"],
     gimmicks: [
-      { name: "岩石", count: 5 },
-      { name: "土ナパーム", count: 5 }
+      { name: "岩", count: 5 },
+      { name: "埋め込みナパーム", count: 5 }
     ]
   },
   {
@@ -5880,7 +5880,7 @@ const data = [
     wave: 1,
     characters: ["パンドン","ディゲロス"],
     gimmicks: [
-      { name: "岩石", count: 12 }
+      { name: "岩", count: 12 }
     ]
   },
   {
@@ -5888,7 +5888,7 @@ const data = [
     wave: 2,
     characters: ["バードン","マグマ星人","ダークロプスゼロ"],
     gimmicks: [
-      { name: "岩石", count: 14 }
+      { name: "岩", count: 14 }
     ]
   },
   {
@@ -5896,7 +5896,7 @@ const data = [
     wave: 2,
     characters: ["ゴルザ","メルバ","パンドン","ディゲロス"],
     gimmicks: [
-      { name: "岩石", count: 16 }
+      { name: "岩", count: 16 }
     ]
   },
   {
@@ -5904,7 +5904,7 @@ const data = [
     wave: 1,
     characters: ["ディゲロス","パンドン","ゲネガーグ"],
     gimmicks: [
-      { name: "岩石", count: 18 }
+      { name: "岩", count: 18 }
     ]
   },
   {
@@ -5912,7 +5912,7 @@ const data = [
     wave: 2,
     characters: ["バードン","ゴルザ","メルバ"],
     gimmicks: [
-      { name: "岩石", count: 20 }
+      { name: "岩", count: 20 }
     ]
   },
   {
@@ -5920,7 +5920,7 @@ const data = [
     wave: 2,
     characters: ["ゲネガーグ","パンドン","マグマ星人"],
     gimmicks: [
-      { name: "岩石", count: 22 }
+      { name: "岩", count: 22 }
     ]
   },
   {
@@ -5928,7 +5928,7 @@ const data = [
     wave: 1,
     characters: ["パンドン","ディゲロス","ダークロプスゼロ"],
     gimmicks: [
-      { name: "岩石", count: 24 }
+      { name: "岩", count: 24 }
     ]
   },
   {
@@ -5936,7 +5936,7 @@ const data = [
     wave: 1,
     characters: ["マグマ星人"],
     gimmicks: [
-      { name: "岩石", count: 24 }
+      { name: "岩", count: 24 }
     ]
   },
   {
@@ -5945,7 +5945,7 @@ const data = [
     characters: ["エルドギメラ","ホロボロス"],
     gimmicks: [
       { name: "神殿", count: 4 },
-      { name: "土サークル", count: 4 }
+      { name: "埋め込みサークル", count: 4 }
     ]
   },
   {
@@ -5954,7 +5954,7 @@ const data = [
     characters: ["ゲバルガ","メフィラス星人","ベロクロン"],
     gimmicks: [
       { name: "神殿", count: 5 },
-      { name: "土サークル", count: 5 }
+      { name: "埋め込みサークル", count: 5 }
     ]
   },
   {
@@ -6027,7 +6027,7 @@ const data = [
     characters: ["メトロン星人","ホロボロス"],
     gimmicks: [
       { name: "銅板", count: 4 },
-      { name: "土ブーメラン", count: 4 }
+      { name: "埋め込みブーメラン", count: 4 }
     ]
   },
   {
@@ -6036,7 +6036,7 @@ const data = [
     characters: ["ギャラクトロン","ガンQ","ベムスター"],
     gimmicks: [
       { name: "銅板", count: 5 },
-      { name: "土ブーメラン", count: 5 }
+      { name: "埋め込みブーメラン", count: 5 }
     ]
   },
   {
@@ -6117,7 +6117,7 @@ const data = [
     characters: ["シャゴン","ダダ"],
     gimmicks: [
       { name: "丸太", count: 4 },
-      { name: "土ロケット", count: 4 }
+      { name: "埋め込みロケット", count: 4 }
     ]
   },
   {
@@ -6126,7 +6126,7 @@ const data = [
     characters: ["デマーガ","ババルウ","ガンQ"],
     gimmicks: [
       { name: "丸太", count: 5 },
-      { name: "土ロケット", count: 5 }
+      { name: "埋め込みロケット", count: 5 }
     ]
   },
   {
@@ -6135,7 +6135,7 @@ const data = [
     characters: ["ゴルザ","メルバ"],
     gimmicks: [
       { name: "丸太", count: 6 },
-      { name: "巨大植物", count: 6 }
+      { name: "ラフレシア", count: 6 }
     ]
   },
   {
@@ -6144,7 +6144,7 @@ const data = [
     characters: ["ゲバルガ","シャゴン","ブルトン"],
     gimmicks: [
       { name: "丸太", count: 7 },
-      { name: "巨大植物", count: 7 }
+      { name: "ラフレシア", count: 7 }
     ]
   },
   {
@@ -6153,7 +6153,7 @@ const data = [
     characters: ["ダダ","ガンQ","ババルウ","デマーガ"],
     gimmicks: [
       { name: "丸太", count: 8 },
-      { name: "巨大植物", count: 8 }
+      { name: "ラフレシア", count: 8 }
     ]
   },
   {
@@ -6162,7 +6162,7 @@ const data = [
     characters: ["シャゴン","ゲバルガ","ババルウ"],
     gimmicks: [
       { name: "丸太", count: 9 },
-      { name: "巨大植物", count: 9 }
+      { name: "ラフレシア", count: 9 }
     ]
   },
   {
@@ -6171,7 +6171,7 @@ const data = [
     characters: ["デマーガ","ダダ","ゴルザ"],
     gimmicks: [
       { name: "丸太", count: 10 },
-      { name: "巨大植物", count: 10 }
+      { name: "ラフレシア", count: 10 }
     ]
   },
   {
@@ -6180,7 +6180,7 @@ const data = [
     characters: ["ゲバルガ","ババルウ","シャゴン"],
     gimmicks: [
       { name: "丸太", count: 11 },
-      { name: "巨大植物", count: 11 }
+      { name: "ラフレシア", count: 11 }
     ]
   },
   {
@@ -6189,7 +6189,7 @@ const data = [
     characters: ["ゴルザ","ガンQ","メルバ"],
     gimmicks: [
       { name: "丸太", count: 12 },
-      { name: "巨大植物", count: 12 }
+      { name: "ラフレシア", count: 12 }
     ]
   },
   {
@@ -6198,7 +6198,7 @@ const data = [
     characters: ["ダークメフィスト"],
     gimmicks: [
       { name: "丸太", count: 12 },
-      { name: "巨大植物", count: 12 }
+      { name: "ラフレシア", count: 12 }
     ]
   },
   {
@@ -6207,7 +6207,7 @@ const data = [
     characters: ["メトロン星人","メフィラス星人"],
     gimmicks: [
       { name: "氷塊", count: 4 },
-      { name: "土ロケット", count: 4 }
+      { name: "埋め込みロケット", count: 4 }
     ]
   },
   {
@@ -6216,7 +6216,7 @@ const data = [
     characters: ["キリエロイド","ベロクロン","ゼットン"],
     gimmicks: [
       { name: "氷塊", count: 5 },
-      { name: "土ロケット", count: 5 }
+      { name: "埋め込みロケット", count: 5 }
     ]
   },
   {
@@ -6296,8 +6296,8 @@ const data = [
     wave: 1,
     characters: ["ディゲロス","ダークロプスゼロ"],
     gimmicks: [
-      { name: "岩石", count: 4 },
-      { name: "土ナパーム", count: 4 }
+      { name: "岩", count: 4 },
+      { name: "埋め込みナパーム", count: 4 }
     ]
   },
   {
@@ -6305,8 +6305,8 @@ const data = [
     wave: 2,
     characters: ["バードン","スラン星人","バルタン星人"],
     gimmicks: [
-      { name: "岩石", count: 5 },
-      { name: "土ナパーム", count: 5 }
+      { name: "岩", count: 5 },
+      { name: "埋め込みナパーム", count: 5 }
     ]
   },
   {
@@ -6314,7 +6314,7 @@ const data = [
     wave: 1,
     characters: ["パンドン","モンスアーガー"],
     gimmicks: [
-      { name: "岩石", count: 6 },
+      { name: "岩", count: 6 },
       { name: "砂利", count: 6 }
     ]
   },
@@ -6323,7 +6323,7 @@ const data = [
     wave: 2,
     characters: ["ゲネガーグ","ダークロプスゼロ","バードン"],
     gimmicks: [
-      { name: "岩石", count: 7 },
+      { name: "岩", count: 7 },
       { name: "砂利", count: 7 }
     ]
   },
@@ -6332,7 +6332,7 @@ const data = [
     wave: 2,
     characters: ["ディゲロス","ゲネガーグ","モンスアーガー","ダークロプスゼロ"],
     gimmicks: [
-      { name: "岩石", count: 8 },
+      { name: "岩", count: 8 },
       { name: "砂利", count: 8 }
     ]
   },
@@ -6341,7 +6341,7 @@ const data = [
     wave: 1,
     characters: ["スラン星人","ディゲロス","バルタン星人"],
     gimmicks: [
-      { name: "岩石", count: 9 },
+      { name: "岩", count: 9 },
       { name: "砂利", count: 9 }
     ]
   },
@@ -6350,7 +6350,7 @@ const data = [
     wave: 2,
     characters: ["バードン","モンスアーガー","バルタン星人"],
     gimmicks: [
-      { name: "岩石", count: 10 },
+      { name: "岩", count: 10 },
       { name: "砂利", count: 10 }
     ]
   },
@@ -6359,7 +6359,7 @@ const data = [
     wave: 2,
     characters: ["ゲネガーグ","パンドン","スラン星人"],
     gimmicks: [
-      { name: "岩石", count: 11 },
+      { name: "岩", count: 11 },
       { name: "砂利", count: 11 }
     ]
   },
@@ -6368,7 +6368,7 @@ const data = [
     wave: 1,
     characters: ["モンスアーガー","ディゲロス","ダークロプスゼロ"],
     gimmicks: [
-      { name: "岩石", count: 12 },
+      { name: "岩", count: 12 },
       { name: "砂利", count: 12 }
     ]
   },
@@ -6377,7 +6377,7 @@ const data = [
     wave: 1,
     characters: ["ギャラクトロン"],
     gimmicks: [
-      { name: "岩石", count: 12 },
+      { name: "岩", count: 12 },
       { name: "砂利", count: 12 }
     ]
   },
@@ -6387,7 +6387,7 @@ const data = [
     characters: ["メトロン星人","マグマ星人"],
     gimmicks: [
       { name: "神殿", count: 4 },
-      { name: "土サークル", count: 4 }
+      { name: "埋め込みサークル", count: 4 }
     ]
   },
   {
@@ -6396,7 +6396,7 @@ const data = [
     characters: ["レッドキング","ゼットン","ガゾート"],
     gimmicks: [
       { name: "神殿", count: 5 },
-      { name: "土サークル", count: 5 }
+      { name: "埋め込みサークル", count: 5 }
     ]
   },
   {
@@ -6405,7 +6405,7 @@ const data = [
     characters: ["エルドギメラ","ゼットン"],
     gimmicks: [
       { name: "神殿", count: 6 },
-      { name: "砂", count: 6 }
+      { name: "砂岩", count: 6 }
     ]
   },
   {
@@ -6414,7 +6414,7 @@ const data = [
     characters: ["マグマ星人","レッドキング","デスドラゴ"],
     gimmicks: [
       { name: "神殿", count: 7 },
-      { name: "砂", count: 7 }
+      { name: "砂岩", count: 7 }
     ]
   },
   {
@@ -6423,7 +6423,7 @@ const data = [
     characters: ["メトロン星人","メフィラス星人","エルドギメラ","ゼットン"],
     gimmicks: [
       { name: "神殿", count: 8 },
-      { name: "砂", count: 8 }
+      { name: "砂岩", count: 8 }
     ]
   },
   {
@@ -6432,7 +6432,7 @@ const data = [
     characters: ["レッドキング","メフィラス星人","ゼットン"],
     gimmicks: [
       { name: "神殿", count: 9 },
-      { name: "砂", count: 9 }
+      { name: "砂岩", count: 9 }
     ]
   },
   {
@@ -6441,7 +6441,7 @@ const data = [
     characters: ["メトロン星人","エルドギメラ","マグマ星人"],
     gimmicks: [
       { name: "神殿", count: 10 },
-      { name: "砂", count: 10 }
+      { name: "砂岩", count: 10 }
     ]
   },
   {
@@ -6450,7 +6450,7 @@ const data = [
     characters: ["ゾヴァラス","メフィラス星人","エルドギメラ"],
     gimmicks: [
       { name: "神殿", count: 11 },
-      { name: "砂", count: 11 }
+      { name: "砂岩", count: 11 }
     ]
   },
   {
@@ -6459,7 +6459,7 @@ const data = [
     characters: ["メトロン星人","メフィラス星人","ゼットン"],
     gimmicks: [
       { name: "神殿", count: 12 },
-      { name: "砂", count: 12 }
+      { name: "砂岩", count: 12 }
     ]
   },
   {
@@ -6468,7 +6468,7 @@ const data = [
     characters: ["カルミラ"],
     gimmicks: [
       { name: "神殿", count: 12 },
-      { name: "砂", count: 12 }
+      { name: "砂岩", count: 12 }
     ]
   },
   {
@@ -6477,7 +6477,7 @@ const data = [
     characters: ["バキシム","ギャラクトロン"],
     gimmicks: [
       { name: "銅板", count: 4 },
-      { name: "土ブーメラン", count: 4 }
+      { name: "埋め込みブーメラン", count: 4 }
     ]
   },
   {
@@ -6486,7 +6486,7 @@ const data = [
     characters: ["ガゾート","ゾヴァラス","ゼットン"],
     gimmicks: [
       { name: "銅板", count: 5 },
-      { name: "土ブーメラン", count: 5 }
+      { name: "埋め込みブーメラン", count: 5 }
     ]
   },
   {
@@ -6567,7 +6567,7 @@ const data = [
     characters: ["ダークロプスゼロ","ゲネガーグ"],
     gimmicks: [
       { name: "丸太", count: 4 },
-      { name: "土ロケット", count: 4 }
+      { name: "埋め込みロケット", count: 4 }
     ]
   },
   {
@@ -6576,7 +6576,7 @@ const data = [
     characters: ["ブルトン","ババルウ","グライム"],
     gimmicks: [
       { name: "丸太", count: 5 },
-      { name: "土ロケット", count: 5 }
+      { name: "埋め込みロケット", count: 5 }
     ]
   },
   {
@@ -6585,7 +6585,7 @@ const data = [
     characters: ["モンスアーガー","メフィラス星人"],
     gimmicks: [
       { name: "丸太", count: 6 },
-      { name: "ツル", count: 6 }
+      { name: "木の根", count: 6 }
     ]
   },
   {
@@ -6594,7 +6594,7 @@ const data = [
     characters: ["タガヌラー","ダークロプスゼロ","ブルトン"],
     gimmicks: [
       { name: "丸太", count: 7 },
-      { name: "ツル", count: 7 }
+      { name: "木の根", count: 7 }
     ]
   },
   {
@@ -6603,7 +6603,7 @@ const data = [
     characters: ["グライム","ゲバルガ","ババルウ","ゲネガーグ"],
     gimmicks: [
       { name: "丸太", count: 8 },
-      { name: "ツル", count: 8 }
+      { name: "木の根", count: 8 }
     ]
   },
   {
@@ -6612,7 +6612,7 @@ const data = [
     characters: ["ゲバルガ","グライム","メフィラス星人"],
     gimmicks: [
       { name: "丸太", count: 9 },
-      { name: "ツル", count: 9 }
+      { name: "木の根", count: 9 }
     ]
   },
   {
@@ -6621,7 +6621,7 @@ const data = [
     characters: ["ゲネガーグ","モンスアーガー","ダークロプスゼロ"],
     gimmicks: [
       { name: "丸太", count: 10 },
-      { name: "ツル", count: 10 }
+      { name: "木の根", count: 10 }
     ]
   },
   {
@@ -6630,7 +6630,7 @@ const data = [
     characters: ["グライム","ダークロプスゼロ","ゲネガーグ"],
     gimmicks: [
       { name: "丸太", count: 11 },
-      { name: "ツル", count: 11 }
+      { name: "木の根", count: 11 }
     ]
   },
   {
@@ -6639,7 +6639,7 @@ const data = [
     characters: ["ゲバルガ","グライム","ババルウ"],
     gimmicks: [
       { name: "丸太", count: 12 },
-      { name: "ツル", count: 12 }
+      { name: "木の根", count: 12 }
     ]
   },
   {
@@ -6648,7 +6648,7 @@ const data = [
     characters: ["デストルドス"],
     gimmicks: [
       { name: "丸太", count: 12 },
-      { name: "ツル", count: 12 }
+      { name: "木の根", count: 12 }
     ]
   },
   {
@@ -6657,7 +6657,7 @@ const data = [
     characters: ["バキシム","メトロン星人"],
     gimmicks: [
       { name: "氷塊", count: 4 },
-      { name: "土ロケット", count: 4 }
+      { name: "埋め込みロケット", count: 4 }
     ]
   },
   {
@@ -6666,7 +6666,7 @@ const data = [
     characters: ["キリエロイド","レイキュバス","ベムスター"],
     gimmicks: [
       { name: "氷塊", count: 5 },
-      { name: "土ロケット", count: 5 }
+      { name: "埋め込みロケット", count: 5 }
     ]
   },
   {
@@ -6675,7 +6675,7 @@ const data = [
     characters: ["バルタン星人","ベロクロン"],
     gimmicks: [
       { name: "氷塊", count: 6 },
-      { name: "氷", count: 6 }
+      { name: "氷結岩", count: 6 }
     ]
   },
   {
@@ -6684,7 +6684,7 @@ const data = [
     characters: ["バキシム","ダダ","メトロン星人"],
     gimmicks: [
       { name: "氷塊", count: 7 },
-      { name: "氷", count: 7 }
+      { name: "氷結岩", count: 7 }
     ]
   },
   {
@@ -6693,7 +6693,7 @@ const data = [
     characters: ["バキシム","ベムスター","キリエロイド","ベロクロン"],
     gimmicks: [
       { name: "氷塊", count: 8 },
-      { name: "氷", count: 8 }
+      { name: "氷結岩", count: 8 }
     ]
   },
   {
@@ -6702,7 +6702,7 @@ const data = [
     characters: ["ベロクロン","バルタン星人","ガンQ"],
     gimmicks: [
       { name: "氷塊", count: 9 },
-      { name: "氷", count: 9 }
+      { name: "氷結岩", count: 9 }
     ]
   },
   {
@@ -6711,7 +6711,7 @@ const data = [
     characters: ["ダダ","レイキュバス","キリエロイド"],
     gimmicks: [
       { name: "氷塊", count: 10 },
-      { name: "氷", count: 10 }
+      { name: "氷結岩", count: 10 }
     ]
   },
   {
@@ -6720,7 +6720,7 @@ const data = [
     characters: ["バルタン星人","ベロクロン","メトロン星人"],
     gimmicks: [
       { name: "氷塊", count: 11 },
-      { name: "氷", count: 11 }
+      { name: "氷結岩", count: 11 }
     ]
   },
   {
@@ -6729,7 +6729,7 @@ const data = [
     characters: ["メトロン星人","キリエロイド","ガンQ"],
     gimmicks: [
       { name: "氷塊", count: 12 },
-      { name: "氷", count: 12 }
+      { name: "氷結岩", count: 12 }
     ]
   },
   {
@@ -6738,7 +6738,7 @@ const data = [
     characters: ["ダークルギエル"],
     gimmicks: [
       { name: "氷塊", count: 12 },
-      { name: "氷", count: 12 }
+      { name: "氷結岩", count: 12 }
     ]
   },
   {
@@ -6746,8 +6746,8 @@ const data = [
     wave: 1,
     characters: ["グライム","マグマ星人"],
     gimmicks: [
-      { name: "岩石", count: 4 },
-      { name: "土ナパーム", count: 4 }
+      { name: "岩", count: 4 },
+      { name: "埋め込みナパーム", count: 4 }
     ]
   },
   {
@@ -6755,8 +6755,8 @@ const data = [
     wave: 2,
     characters: ["ディゲロス","ゴルザ","メルバ"],
     gimmicks: [
-      { name: "岩石", count: 5 },
-      { name: "土ナパーム", count: 5 }
+      { name: "岩", count: 5 },
+      { name: "埋め込みナパーム", count: 5 }
     ]
   },
   {
@@ -6764,8 +6764,8 @@ const data = [
     wave: 1,
     characters: ["ダークロプスゼロ","スラン星人"],
     gimmicks: [
-      { name: "岩石", count: 6 },
-      { name: "石化", count: 6 }
+      { name: "岩", count: 6 },
+      { name: "化石岩", count: 6 }
     ]
   },
   {
@@ -6773,8 +6773,8 @@ const data = [
     wave: 2,
     characters: ["ゴルザ","マグマ星人","グライム"],
     gimmicks: [
-      { name: "岩石", count: 7 },
-      { name: "石化", count: 7 }
+      { name: "岩", count: 7 },
+      { name: "化石岩", count: 7 }
     ]
   },
   {
@@ -6782,8 +6782,8 @@ const data = [
     wave: 2,
     characters: ["デマーガ","ダークロプスゼロ","メルバ","モンスアーガー"],
     gimmicks: [
-      { name: "岩石", count: 8 },
-      { name: "石化", count: 8 }
+      { name: "岩", count: 8 },
+      { name: "化石岩", count: 8 }
     ]
   },
   {
@@ -6791,8 +6791,8 @@ const data = [
     wave: 1,
     characters: ["ゴルザ","マグマ星人","ディゲロス"],
     gimmicks: [
-      { name: "岩石", count: 9 },
-      { name: "石化", count: 9 }
+      { name: "岩", count: 9 },
+      { name: "化石岩", count: 9 }
     ]
   },
   {
@@ -6800,8 +6800,8 @@ const data = [
     wave: 2,
     characters: ["グライム","モンスアーガー","メルバ"],
     gimmicks: [
-      { name: "岩石", count: 10 },
-      { name: "石化", count: 10 }
+      { name: "岩", count: 10 },
+      { name: "化石岩", count: 10 }
     ]
   },
   {
@@ -6809,8 +6809,8 @@ const data = [
     wave: 2,
     characters: ["スラン星人","ダークロプスゼロ","デマーガ"],
     gimmicks: [
-      { name: "岩石", count: 11 },
-      { name: "石化", count: 11 }
+      { name: "岩", count: 11 },
+      { name: "化石岩", count: 11 }
     ]
   },
   {
@@ -6818,8 +6818,8 @@ const data = [
     wave: 1,
     characters: ["ダークロプスゼロ","グライム","ディゲロス"],
     gimmicks: [
-      { name: "岩石", count: 12 },
-      { name: "石化", count: 12 }
+      { name: "岩", count: 12 },
+      { name: "化石岩", count: 12 }
     ]
   },
   {
@@ -6827,8 +6827,8 @@ const data = [
     wave: 1,
     characters: ["パンドン"],
     gimmicks: [
-      { name: "岩石", count: 12 },
-      { name: "石化", count: 12 }
+      { name: "岩", count: 12 },
+      { name: "化石岩", count: 12 }
     ]
   },
   {
@@ -6837,7 +6837,7 @@ const data = [
     characters: ["ゼットン","バキシム"],
     gimmicks: [
       { name: "神殿", count: 4 },
-      { name: "土サークル", count: 4 }
+      { name: "埋め込みサークル", count: 4 }
     ]
   },
   {
@@ -6846,7 +6846,7 @@ const data = [
     characters: ["ガゾート","レッドキング","メフィラス星人"],
     gimmicks: [
       { name: "神殿", count: 5 },
-      { name: "土サークル", count: 5 }
+      { name: "埋め込みサークル", count: 5 }
     ]
   },
   {
@@ -6855,7 +6855,7 @@ const data = [
     characters: ["ゲバルガ","グライム"],
     gimmicks: [
       { name: "神殿", count: 6 },
-      { name: "石化", count: 6 }
+      { name: "化石岩", count: 6 }
     ]
   },
   {
@@ -6864,7 +6864,7 @@ const data = [
     characters: ["ゼットン","ホロボロス","バキシム"],
     gimmicks: [
       { name: "神殿", count: 7 },
-      { name: "石化", count: 7 }
+      { name: "化石岩", count: 7 }
     ]
   },
   {
@@ -6873,7 +6873,7 @@ const data = [
     characters: ["グライム","ホロボロス","メフィラス星人","ガゾート"],
     gimmicks: [
       { name: "神殿", count: 8 },
-      { name: "石化", count: 8 }
+      { name: "化石岩", count: 8 }
     ]
   },
   {
@@ -6882,7 +6882,7 @@ const data = [
     characters: ["グライム","ホロボロス","ゼットン"],
     gimmicks: [
       { name: "神殿", count: 9 },
-      { name: "石化", count: 9 }
+      { name: "化石岩", count: 9 }
     ]
   },
   {
@@ -6891,7 +6891,7 @@ const data = [
     characters: ["レッドキング","ゲバルガ","ホロボロス"],
     gimmicks: [
       { name: "神殿", count: 10 },
-      { name: "石化", count: 10 }
+      { name: "化石岩", count: 10 }
     ]
   },
   {
@@ -6900,7 +6900,7 @@ const data = [
     characters: ["ガゾート","メフィラス星人","デスドラゴ"],
     gimmicks: [
       { name: "神殿", count: 11 },
-      { name: "石化", count: 11 }
+      { name: "化石岩", count: 11 }
     ]
   },
   {
@@ -6909,7 +6909,7 @@ const data = [
     characters: ["メフィラス星人","バキシム","ゲバルガ"],
     gimmicks: [
       { name: "神殿", count: 12 },
-      { name: "石化", count: 12 }
+      { name: "化石岩", count: 12 }
     ]
   },
   {
@@ -6918,7 +6918,7 @@ const data = [
     characters: ["ウルトラマントレギア"],
     gimmicks: [
       { name: "神殿", count: 12 },
-      { name: "石化", count: 12 }
+      { name: "化石岩", count: 12 }
     ]
   }
 ];
